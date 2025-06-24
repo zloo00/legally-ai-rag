@@ -1,0 +1,6 @@
+article_number:94
+article_title:Дочерняя организация
+article_type:article
+source:civil_code_kz.txt
+content_length:1278
+estimated_tokens:201

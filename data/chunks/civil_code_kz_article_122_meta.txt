@@ -1,0 +1,6 @@
+article_number:122
+article_title:Главная вещь и принадлежность
+article_type:article
+source:civil_code_kz.txt
+content_length:204
+estimated_tokens:33

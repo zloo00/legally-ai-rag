@@ -1,0 +1,6 @@
+article_number:150
+article_title:Порядок ведения переговоров, разработки и заключения соглашений
+article_type:article
+source:labor_code_kz.txt
+content_length:1664
+estimated_tokens:269

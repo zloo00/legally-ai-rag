@@ -1,0 +1,6 @@
+article_number:5
+article_title:Применение гражданского законодательства по аналогии
+article_type:article
+source:civil_code_kz.txt
+content_length:603
+estimated_tokens:97

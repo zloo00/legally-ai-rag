@@ -1,0 +1,6 @@
+article_number:35
+article_title:Документы, подтверждающие трудовую деятельность работника
+article_type:article
+source:labor_code_kz.txt
+content_length:1007
+estimated_tokens:161

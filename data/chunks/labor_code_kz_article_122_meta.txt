@@ -1,0 +1,6 @@
+article_number:122
+article_title:Материальная ответственность работодателя за вред, причиненный жизни и (или) здоровью работника
+article_type:article
+source:labor_code_kz.txt
+content_length:1612
+estimated_tokens:248

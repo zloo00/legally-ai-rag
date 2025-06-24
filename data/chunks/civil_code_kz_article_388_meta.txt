@@ -1,0 +1,6 @@
+article_number:388
+article_title:Примерные условия договоров
+article_type:article
+source:civil_code_kz.txt
+content_length:544
+estimated_tokens:94

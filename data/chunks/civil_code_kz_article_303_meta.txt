@@ -1,0 +1,6 @@
+article_number:303
+article_title:Виды залога
+article_type:article
+source:civil_code_kz.txt
+content_length:2751
+estimated_tokens:447

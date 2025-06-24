@@ -1,0 +1,6 @@
+article_number:10
+article_title:Защита прав предпринимателей и потребителей
+article_type:article
+source:civil_code_kz.txt
+content_length:3394
+estimated_tokens:471

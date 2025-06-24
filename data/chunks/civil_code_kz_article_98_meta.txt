@@ -1,0 +1,6 @@
+article_number:98
+article_title:Имущество производственного кооператива
+article_type:article
+source:civil_code_kz.txt
+content_length:470
+estimated_tokens:80

@@ -1,0 +1,6 @@
+article_number:84
+article_title:с изменениями, внесенными законами РК от 11.07.1997 № 154; от 22.04.1998 № 221.
+article_type:article
+source:civil_code_kz.txt
+content_length:102
+estimated_tokens:23

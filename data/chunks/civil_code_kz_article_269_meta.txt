@@ -1,0 +1,6 @@
+article_number:269
+article_title:Стороны обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:876
+estimated_tokens:169

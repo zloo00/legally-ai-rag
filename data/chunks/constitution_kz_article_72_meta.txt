@@ -1,0 +1,6 @@
+article_number:72
+article_title:1. Конституционный Суд по обращению Президента Республики Казахстан, Председателя Сената, Председателя Мажилиса, не менее одной пятой части от общего числа депутатов Парламента, Премьер-Министра:
+article_type:article
+source:constitution_kz.txt
+content_length:1623
+estimated_tokens:249

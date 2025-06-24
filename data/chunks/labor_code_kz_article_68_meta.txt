@@ -1,0 +1,6 @@
+article_number:68
+article_title:Нормальная продолжительность рабочего времени
+article_type:article
+source:labor_code_kz.txt
+content_length:1528
+estimated_tokens:245

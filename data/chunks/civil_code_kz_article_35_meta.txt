@@ -1,0 +1,6 @@
+article_number:35
+article_title:Правоспособность юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:1448
+estimated_tokens:210

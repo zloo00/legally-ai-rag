@@ -1,0 +1,6 @@
+article_number:16
+article_title:с изменениями, внесенными Законом РК от 21.05.2007 № 254-III (вводится в действие со дня его официального опубликования).
+article_type:article
+source:constitution_kz.txt
+content_length:130
+estimated_tokens:20

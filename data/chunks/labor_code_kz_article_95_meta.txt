@@ -1,0 +1,6 @@
+article_number:95
+article_title:Отзыв из оплачиваемого ежегодного трудового отпуска
+article_type:article
+source:labor_code_kz.txt
+content_length:1070
+estimated_tokens:169

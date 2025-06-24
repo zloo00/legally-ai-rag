@@ -1,0 +1,6 @@
+article_number:61
+article_title:1. Право законодательной инициативы принадлежит Президенту Республики, депутатам Парламента, Правительству и реализуется исключительно в Мажилисе.
+article_type:article
+source:constitution_kz.txt
+content_length:4968
+estimated_tokens:799

@@ -1,0 +1,6 @@
+article_number:318
+article_title:Порядок обращения взыскания на предмет залога
+article_type:article
+source:civil_code_kz.txt
+content_length:950
+estimated_tokens:140

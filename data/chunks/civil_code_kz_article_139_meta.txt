@@ -1,0 +1,6 @@
+article_number:139
+article_title:Акция
+article_type:article
+source:civil_code_kz.txt
+content_length:1303
+estimated_tokens:195

@@ -1,0 +1,6 @@
+article_number:1-part2
+article_title:Основные понятия, используемые в настоящем Кодексе (Part 2)
+article_type:article_part
+source:labor_code_kz.txt
+content_length:12160
+estimated_tokens:1768

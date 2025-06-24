@@ -1,0 +1,6 @@
+article_number:8
+article_title:Сфера действия настоящего Кодекса
+article_type:article
+source:labor_code_kz.txt
+content_length:1218
+estimated_tokens:178

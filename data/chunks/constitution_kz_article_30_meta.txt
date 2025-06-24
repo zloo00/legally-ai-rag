@@ -1,0 +1,6 @@
+article_number:30
+article_title:1. Гражданам гарантируется бесплатное среднее образование в государственных учебных заведениях. Среднее образование обязательно.
+article_type:article
+source:constitution_kz.txt
+content_length:408
+estimated_tokens:61

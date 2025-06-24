@@ -1,0 +1,6 @@
+article_number:87
+article_title:Учредительные документы акционерного общества
+article_type:article
+source:civil_code_kz.txt
+content_length:637
+estimated_tokens:81

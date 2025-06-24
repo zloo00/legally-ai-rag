@@ -1,0 +1,6 @@
+article_number:243
+article_title:Движимые вещи, от которых собственник отказался
+article_type:article
+source:civil_code_kz.txt
+content_length:825
+estimated_tokens:141

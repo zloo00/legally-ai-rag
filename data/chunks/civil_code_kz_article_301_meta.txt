@@ -1,0 +1,6 @@
+article_number:301
+article_title:Предмет залога
+article_type:article
+source:civil_code_kz.txt
+content_length:1035
+estimated_tokens:197

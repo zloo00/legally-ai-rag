@@ -1,0 +1,6 @@
+article_number:91
+article_title:Исчисление трудового стажа при предоставлении оплачиваемого ежегодного трудового отпуска
+article_type:article
+source:labor_code_kz.txt
+content_length:494
+estimated_tokens:88

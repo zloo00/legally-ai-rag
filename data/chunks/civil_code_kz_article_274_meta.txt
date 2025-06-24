@@ -1,0 +1,6 @@
+article_number:274
+article_title:Исполнение обязательства по частям
+article_type:article
+source:civil_code_kz.txt
+content_length:206
+estimated_tokens:32

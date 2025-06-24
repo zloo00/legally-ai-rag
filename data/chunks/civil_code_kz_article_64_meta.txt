@@ -1,0 +1,6 @@
+article_number:64
+article_title:Уставный капитал полного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:595
+estimated_tokens:76

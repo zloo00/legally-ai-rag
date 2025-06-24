@@ -1,0 +1,6 @@
+article_number:98
+article_title:Учебный отпуск
+article_type:article
+source:labor_code_kz.txt
+content_length:569
+estimated_tokens:83

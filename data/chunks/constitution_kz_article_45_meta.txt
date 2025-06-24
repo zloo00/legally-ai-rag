@@ -1,0 +1,6 @@
+article_number:45
+article_title:1. Президент Республики Казахстан на основе и во исполнение Конституции и законов издает указы и распоряжения, имеющие обязательную силу на всей территории Республики.
+article_type:article
+source:constitution_kz.txt
+content_length:436
+estimated_tokens:66

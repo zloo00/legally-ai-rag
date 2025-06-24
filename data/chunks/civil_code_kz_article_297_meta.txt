@@ -1,0 +1,6 @@
+article_number:297
+article_title:Уменьшение размера неустойки
+article_type:article
+source:civil_code_kz.txt
+content_length:283
+estimated_tokens:45

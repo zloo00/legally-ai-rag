@@ -1,0 +1,6 @@
+article_number:51
+article_title:Порядок прекращения трудового договора по истечении срока
+article_type:article
+source:labor_code_kz.txt
+content_length:1176
+estimated_tokens:201

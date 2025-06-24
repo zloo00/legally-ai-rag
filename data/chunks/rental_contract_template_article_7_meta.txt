@@ -1,0 +1,6 @@
+article_number:7
+article_title:Вместе с подписанием настоящего Акта Арендодателем передан ключ от
+article_type:article
+source:rental_contract_template.txt
+content_length:56
+estimated_tokens:10

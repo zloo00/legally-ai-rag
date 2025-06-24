@@ -1,0 +1,6 @@
+article_number:134
+article_title:Восстановление ценной бумаги
+article_type:article
+source:civil_code_kz.txt
+content_length:170
+estimated_tokens:24

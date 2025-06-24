@@ -1,0 +1,6 @@
+article_number:172
+article_title:Объявление о начале забастовки
+article_type:article
+source:labor_code_kz.txt
+content_length:769
+estimated_tokens:120

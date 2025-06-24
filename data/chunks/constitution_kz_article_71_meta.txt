@@ -1,0 +1,6 @@
+article_number:71
+article_title:1. Конституционный Суд Республики Казахстан состоит из одиннадцати судей, включая Председателя, полномочия которых длятся восемь лет.
+article_type:article
+source:constitution_kz.txt
+content_length:1271
+estimated_tokens:185

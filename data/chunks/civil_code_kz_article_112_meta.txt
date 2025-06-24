@@ -1,0 +1,6 @@
+article_number:112
+article_title:Участие административно-территориальной единицы в гражданско-правовых отношениях
+article_type:article
+source:civil_code_kz.txt
+content_length:1819
+estimated_tokens:275

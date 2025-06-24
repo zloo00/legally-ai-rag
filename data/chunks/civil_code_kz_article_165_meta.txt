@@ -1,0 +1,6 @@
+article_number:165
+article_title:Представительство без полномочия
+article_type:article
+source:civil_code_kz.txt
+content_length:345
+estimated_tokens:57

@@ -1,0 +1,6 @@
+article_number:33
+article_title:Примечание. См. нормативное постановление Конституционного Суда РК от 18.05.2023 № 14-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:1309
+estimated_tokens:206

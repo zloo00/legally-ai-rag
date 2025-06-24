@@ -1,0 +1,6 @@
+article_number:15
+article_title:Имя гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:1675
+estimated_tokens:278

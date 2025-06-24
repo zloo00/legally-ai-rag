@@ -1,0 +1,6 @@
+article_number:147
+article_title:Понятие сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:144
+estimated_tokens:22

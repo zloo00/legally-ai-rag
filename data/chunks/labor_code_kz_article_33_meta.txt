@@ -1,0 +1,6 @@
+article_number:33
+article_title:Порядок заключения, изменения и дополнения трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:1789
+estimated_tokens:301

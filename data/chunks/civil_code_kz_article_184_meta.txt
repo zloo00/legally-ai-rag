@@ -1,0 +1,6 @@
+article_number:184
+article_title:Течение срока исковой давности в случае оставления иска без рассмотрения
+article_type:article
+source:civil_code_kz.txt
+content_length:569
+estimated_tokens:101

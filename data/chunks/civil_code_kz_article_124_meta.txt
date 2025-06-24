@@ -1,0 +1,6 @@
+article_number:124
+article_title:Животные
+article_type:article
+source:civil_code_kz.txt
+content_length:94
+estimated_tokens:15

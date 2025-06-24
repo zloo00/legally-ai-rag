@@ -1,0 +1,6 @@
+article_number:127-1
+article_title:Гарантии для работников, осуществляющих трудовую деятельность в зонах экологического бедствия и радиационного риска
+article_type:article
+source:labor_code_kz.txt
+content_length:362
+estimated_tokens:58

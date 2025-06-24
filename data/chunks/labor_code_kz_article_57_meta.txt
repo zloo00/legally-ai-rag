@@ -1,0 +1,6 @@
+article_number:57
+article_title:Основания прекращения трудового договора по обстоятельствам, не зависящим от воли сторон
+article_type:article
+source:labor_code_kz.txt
+content_length:1412
+estimated_tokens:239

@@ -1,0 +1,6 @@
+article_number:341
+article_title:Объем прав кредитора, переходящих к другому лицу
+article_type:article
+source:civil_code_kz.txt
+content_length:479
+estimated_tokens:89

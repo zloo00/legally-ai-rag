@@ -1,0 +1,6 @@
+article_number:127-2
+article_title:Гарантии для работников, сотрудников, принимавших участие в миротворческой операции
+article_type:article
+source:labor_code_kz.txt
+content_length:330
+estimated_tokens:53

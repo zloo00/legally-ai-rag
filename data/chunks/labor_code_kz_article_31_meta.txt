@@ -1,0 +1,6 @@
+article_number:31
+article_title:Возраст, с которого допускается заключение трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:940
+estimated_tokens:150

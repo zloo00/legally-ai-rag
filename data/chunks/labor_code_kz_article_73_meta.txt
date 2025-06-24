@@ -1,0 +1,6 @@
+article_number:73
+article_title:Сменная работа
+article_type:article
+source:labor_code_kz.txt
+content_length:737
+estimated_tokens:124

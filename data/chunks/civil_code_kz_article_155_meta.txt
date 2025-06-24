@@ -1,0 +1,6 @@
+article_number:155
+article_title:Регистрация сделок
+article_type:article
+source:civil_code_kz.txt
+content_length:566
+estimated_tokens:96

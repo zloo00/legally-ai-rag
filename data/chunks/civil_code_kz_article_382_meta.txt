@@ -1,0 +1,6 @@
+article_number:382
+article_title:Определение условий договора
+article_type:article
+source:civil_code_kz.txt
+content_length:692
+estimated_tokens:104

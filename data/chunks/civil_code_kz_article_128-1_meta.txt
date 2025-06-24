@@ -1,0 +1,6 @@
+article_number:128-1
+article_title:Финансовые инструменты
+article_type:article
+source:civil_code_kz.txt
+content_length:2108
+estimated_tokens:356

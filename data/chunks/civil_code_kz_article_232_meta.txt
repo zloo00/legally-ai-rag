@@ -1,0 +1,6 @@
+article_number:232
+article_title:Передача права и отказ от участия в совместной деятельности
+article_type:article
+source:civil_code_kz.txt
+content_length:561
+estimated_tokens:91

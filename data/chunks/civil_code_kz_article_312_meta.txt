@@ -1,0 +1,6 @@
+article_number:312
+article_title:Содержание и сохранность заложенного имущества
+article_type:article
+source:civil_code_kz.txt
+content_length:850
+estimated_tokens:139

@@ -1,0 +1,6 @@
+article_number:57
+article_title:с изменением, внесенным Законом РК от 24.12.2012 № 60-V (вводится в действие по истечении десяти календарных дней после его первого официального опубликования).
+article_type:article
+source:civil_code_kz.txt
+content_length:49
+estimated_tokens:7

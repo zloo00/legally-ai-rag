@@ -1,0 +1,6 @@
+article_number:199
+article_title:Права собственника в отношении имущества, находящегося в хозяйственном ведении
+article_type:article
+source:civil_code_kz.txt
+content_length:552
+estimated_tokens:91

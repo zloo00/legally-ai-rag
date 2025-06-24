@@ -1,0 +1,6 @@
+article_number:330
+article_title:Поручительство
+article_type:article
+source:civil_code_kz.txt
+content_length:167
+estimated_tokens:26

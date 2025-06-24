@@ -1,0 +1,6 @@
+article_number:2
+article_title:1. Республика Казахстан является унитарным государством с президентской формой правления.
+article_type:article
+source:constitution_kz.txt
+content_length:503
+estimated_tokens:74

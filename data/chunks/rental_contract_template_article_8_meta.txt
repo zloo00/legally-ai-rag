@@ -1,0 +1,6 @@
+article_number:8
+article_title:Настоящий Акт составлен и подписан в двух экземплярах, имеющих равную
+article_type:article
+source:rental_contract_template.txt
+content_length:178
+estimated_tokens:29

@@ -1,0 +1,6 @@
+article_number:9
+article_title:Места нахождения, реквизиты и подписи Сторон
+article_type:article
+source:sales_contract_template.txt
+content_length:151
+estimated_tokens:20

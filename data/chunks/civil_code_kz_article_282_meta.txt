@@ -1,0 +1,6 @@
+article_number:282
+article_title:Денежное обязательство
+article_type:article
+source:civil_code_kz.txt
+content_length:706
+estimated_tokens:117

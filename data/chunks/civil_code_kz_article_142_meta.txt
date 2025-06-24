@@ -1,0 +1,6 @@
+article_number:142
+article_title:Личные неимущественные права, связанные с имущественными
+article_type:article
+source:civil_code_kz.txt
+content_length:215
+estimated_tokens:29

@@ -1,0 +1,6 @@
+article_number:6
+article_title:Примечание. См. нормативные постановления Конституционного Суда РК от 11.07.2023 № 20-НП; от 03.12.2024 № 54-НП; от 04.12.2024 № 55-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:792
+estimated_tokens:126

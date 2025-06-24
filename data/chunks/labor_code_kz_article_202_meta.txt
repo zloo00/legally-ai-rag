@@ -1,0 +1,6 @@
+article_number:202
+article_title:Механизм осуществления внутреннего контроля по безопасности и охране труда
+article_type:article
+source:labor_code_kz.txt
+content_length:2185
+estimated_tokens:340

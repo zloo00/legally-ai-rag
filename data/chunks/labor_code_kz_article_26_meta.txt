@@ -1,0 +1,6 @@
+article_number:26
+article_title:Запреты и ограничения на заключение трудового договора и трудоустройство
+article_type:article
+source:labor_code_kz.txt
+content_length:5577
+estimated_tokens:858

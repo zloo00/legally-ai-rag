@@ -1,0 +1,6 @@
+article_number:9
+article_title:Минимальные социальные стандарты в сфере труда
+article_type:article
+source:labor_code_kz.txt
+content_length:304
+estimated_tokens:45

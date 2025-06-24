@@ -1,0 +1,6 @@
+article_number:125
+article_title:Гарантии для работников, направляемых на медицинский осмотр
+article_type:article
+source:labor_code_kz.txt
+content_length:254
+estimated_tokens:40

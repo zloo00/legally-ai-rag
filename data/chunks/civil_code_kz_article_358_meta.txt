@@ -1,0 +1,6 @@
+article_number:358
+article_title:Ограничение размера ответственности по обязательствам
+article_type:article
+source:civil_code_kz.txt
+content_length:527
+estimated_tokens:80

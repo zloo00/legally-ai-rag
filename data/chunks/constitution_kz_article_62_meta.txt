@@ -1,0 +1,6 @@
+article_number:62
+article_title:1. Парламент принимает законодательные акты в форме законов Республики Казахстан, постановлений Парламента, постановлений Сената и Мажилиса, имеющих обязательную силу на всей территории Республики.
+article_type:article
+source:constitution_kz.txt
+content_length:1320
+estimated_tokens:217

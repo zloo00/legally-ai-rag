@@ -1,0 +1,6 @@
+article_number:34
+article_title:Виды и формы юридических лиц
+article_type:article
+source:civil_code_kz.txt
+content_length:1148
+estimated_tokens:163

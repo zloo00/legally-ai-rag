@@ -1,0 +1,6 @@
+article_number:225
+article_title:Раздел имущества крестьянского или фермерского хозяйства
+article_type:article
+source:civil_code_kz.txt
+content_length:749
+estimated_tokens:133

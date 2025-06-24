@@ -1,0 +1,6 @@
+article_number:61
+article_title:Оформление прекращения трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:630
+estimated_tokens:105

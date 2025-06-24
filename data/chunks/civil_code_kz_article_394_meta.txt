@@ -1,0 +1,6 @@
+article_number:394
+article_title:Форма договора
+article_type:article
+source:civil_code_kz.txt
+content_length:390
+estimated_tokens:67

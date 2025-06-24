@@ -1,0 +1,6 @@
+article_number:152
+article_title:Стороны, виды соглашений социального партнерства
+article_type:article
+source:labor_code_kz.txt
+content_length:729
+estimated_tokens:88

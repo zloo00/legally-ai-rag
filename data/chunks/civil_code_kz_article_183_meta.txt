@@ -1,0 +1,6 @@
+article_number:183
+article_title:Перерыв течения срока исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:372
+estimated_tokens:62

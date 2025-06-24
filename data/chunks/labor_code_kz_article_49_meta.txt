@@ -1,0 +1,6 @@
+article_number:49
+article_title:Основания прекращения трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:682
+estimated_tokens:107

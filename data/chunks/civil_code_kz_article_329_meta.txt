@@ -1,0 +1,6 @@
+article_number:329
+article_title:Гарантия
+article_type:article
+source:civil_code_kz.txt
+content_length:461
+estimated_tokens:75

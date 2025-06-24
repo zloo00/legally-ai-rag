@@ -1,0 +1,6 @@
+article_number:154
+article_title:Действие соглашений социального партнерства, контроль за их выполнением и ответственность сторон
+article_type:article
+source:labor_code_kz.txt
+content_length:1794
+estimated_tokens:249

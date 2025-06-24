@@ -1,0 +1,6 @@
+article_number:114
+article_title:Исчисление средней заработной платы работника
+article_type:article
+source:labor_code_kz.txt
+content_length:1048
+estimated_tokens:162

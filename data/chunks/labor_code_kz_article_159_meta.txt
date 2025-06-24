@@ -1,0 +1,6 @@
+article_number:159
+article_title:Порядок рассмотрения индивидуального трудового спора
+article_type:article
+source:labor_code_kz.txt
+content_length:7538
+estimated_tokens:1111

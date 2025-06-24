@@ -1,0 +1,6 @@
+article_number:50
+article_title:Порядок ликвидации юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:6841
+estimated_tokens:1020

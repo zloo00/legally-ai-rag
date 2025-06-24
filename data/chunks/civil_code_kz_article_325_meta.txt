@@ -1,0 +1,6 @@
+article_number:325
+article_title:Уступка прав по договору о залоге
+article_type:article
+source:civil_code_kz.txt
+content_length:476
+estimated_tokens:91

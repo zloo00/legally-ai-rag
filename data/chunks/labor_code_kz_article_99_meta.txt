@@ -1,0 +1,6 @@
+article_number:99
+article_title:Отпуска в связи с беременностью и рождением ребенка (детей), усыновлением (удочерением)новорожденного ребенка (детей)
+article_type:article
+source:labor_code_kz.txt
+content_length:3472
+estimated_tokens:600

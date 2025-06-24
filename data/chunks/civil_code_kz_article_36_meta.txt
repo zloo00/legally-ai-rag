@@ -1,0 +1,6 @@
+article_number:36
+article_title:Права учредителей (участников) на имущество созданных ими юридических лиц
+article_type:article
+source:civil_code_kz.txt
+content_length:886
+estimated_tokens:135

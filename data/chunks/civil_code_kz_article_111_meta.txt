@@ -1,0 +1,6 @@
+article_number:111
+article_title:Участие Республики Казахстан в гражданских правоотношениях
+article_type:article
+source:civil_code_kz.txt
+content_length:801
+estimated_tokens:123

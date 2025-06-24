@@ -1,0 +1,6 @@
+article_number:361
+article_title:Последствия невозможности исполнения двустороннего договора
+article_type:article
+source:civil_code_kz.txt
+content_length:408
+estimated_tokens:72

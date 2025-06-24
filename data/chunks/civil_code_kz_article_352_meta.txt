@@ -1,0 +1,6 @@
+article_number:352
+article_title:Возмещение морального ущерба, причиненного нарушением обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:129
+estimated_tokens:16

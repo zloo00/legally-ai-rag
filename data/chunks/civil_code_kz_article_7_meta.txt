@@ -1,0 +1,6 @@
+article_number:7
+article_title:Основания возникновения, изменения и прекращения гражданских прав и обязанностей
+article_type:article
+source:civil_code_kz.txt
+content_length:1505
+estimated_tokens:235

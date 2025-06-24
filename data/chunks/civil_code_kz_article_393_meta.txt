@@ -1,0 +1,6 @@
+article_number:393
+article_title:Существенные условия договора
+article_type:article
+source:civil_code_kz.txt
+content_length:596
+estimated_tokens:96

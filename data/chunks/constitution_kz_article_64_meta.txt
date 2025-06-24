@@ -1,0 +1,6 @@
+article_number:64
+article_title:1. Правительство осуществляет исполнительную власть Республики Казахстан, возглавляет систему исполнительных органов и осуществляет руководство их деятельностью.
+article_type:article
+source:constitution_kz.txt
+content_length:442
+estimated_tokens:65

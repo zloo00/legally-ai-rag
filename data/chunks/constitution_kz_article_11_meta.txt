@@ -1,0 +1,6 @@
+article_number:11
+article_title:1. Гражданин Республики Казахстан не может быть выдан иностранному государству, если иное не установлено международными договорами Республики.
+article_type:article
+source:constitution_kz.txt
+content_length:83
+estimated_tokens:14

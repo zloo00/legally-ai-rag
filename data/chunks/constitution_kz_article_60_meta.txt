@@ -1,0 +1,6 @@
+article_number:60
+article_title:1. Палаты образуют постоянные комитеты, число которых не превышает семи в каждой Палате.
+article_type:article
+source:constitution_kz.txt
+content_length:325
+estimated_tokens:52

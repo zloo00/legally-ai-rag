@@ -1,0 +1,6 @@
+article_number:145-1
+article_title:Регулирование труда работников уполномоченного органа по регулированию, контролю и надзору финансового рынка и финансовых организаций
+article_type:article
+source:labor_code_kz.txt
+content_length:798
+estimated_tokens:123

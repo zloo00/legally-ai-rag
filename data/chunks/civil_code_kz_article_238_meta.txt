@@ -1,0 +1,6 @@
+article_number:238
+article_title:Момент возникновения права собственности у приобретателя по договору
+article_type:article
+source:civil_code_kz.txt
+content_length:729
+estimated_tokens:113

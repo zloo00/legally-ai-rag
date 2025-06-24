@@ -1,0 +1,6 @@
+article_number:205
+article_title:Право собственника на изъятие и перераспределение имущества, переданного в оперативное управление
+article_type:article
+source:civil_code_kz.txt
+content_length:279
+estimated_tokens:42

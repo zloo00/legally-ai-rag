@@ -1,0 +1,6 @@
+article_number:272
+article_title:Надлежащее исполнение обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:260
+estimated_tokens:41

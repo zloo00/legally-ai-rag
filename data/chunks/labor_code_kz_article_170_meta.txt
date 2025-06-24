@@ -1,0 +1,6 @@
+article_number:170
+article_title:Обязанности сторон и примирительных органов по урегулированию коллективных трудовых споров
+article_type:article
+source:labor_code_kz.txt
+content_length:1355
+estimated_tokens:209

@@ -1,0 +1,6 @@
+article_number:114
+article_title:Применение к государству и административно-территориальной единице норм о юридических лицах
+article_type:article
+source:civil_code_kz.txt
+content_length:280
+estimated_tokens:41

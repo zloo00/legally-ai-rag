@@ -1,0 +1,6 @@
+article_number:159
+article_title:Основания недействительности сделок
+article_type:article
+source:civil_code_kz.txt
+content_length:833
+estimated_tokens:127

@@ -1,0 +1,6 @@
+article_number:44
+article_title:Ответственность юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:2011
+estimated_tokens:287

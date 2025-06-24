@@ -1,0 +1,6 @@
+article_number:396
+article_title:Акцепт
+article_type:article
+source:civil_code_kz.txt
+content_length:734
+estimated_tokens:130

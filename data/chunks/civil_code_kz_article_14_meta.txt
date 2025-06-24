@@ -1,0 +1,6 @@
+article_number:14
+article_title:Основное содержание правоспособности гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:938
+estimated_tokens:145

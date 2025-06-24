@@ -1,0 +1,6 @@
+article_number:157
+article_title:Оспоримые и ничтожные сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:1155
+estimated_tokens:176

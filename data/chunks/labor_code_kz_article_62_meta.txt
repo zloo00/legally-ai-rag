@@ -1,0 +1,6 @@
+article_number:62
+article_title:Выдача документов, подтверждающих трудовую деятельность, а также иных документов, связанных c трудовой деятельностью
+article_type:article
+source:labor_code_kz.txt
+content_length:868
+estimated_tokens:133

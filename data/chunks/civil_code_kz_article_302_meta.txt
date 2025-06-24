@@ -1,0 +1,6 @@
+article_number:302
+article_title:Требования, обеспечиваемые залогом
+article_type:article
+source:civil_code_kz.txt
+content_length:632
+estimated_tokens:109

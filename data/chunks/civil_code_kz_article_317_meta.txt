@@ -1,0 +1,6 @@
+article_number:317
+article_title:Основания обращения взыскания на заложенное имущество
+article_type:article
+source:civil_code_kz.txt
+content_length:1600
+estimated_tokens:231

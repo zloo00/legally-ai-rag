@@ -1,0 +1,6 @@
+article_number:42
+article_title:Временный перевод на другую работу в случае простоя
+article_type:article
+source:labor_code_kz.txt
+content_length:286
+estimated_tokens:53

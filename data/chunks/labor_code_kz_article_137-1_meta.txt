@@ -1,0 +1,6 @@
+article_number:137-1
+article_title:Порядок осуществления деятельности по оказанию услуг по предоставлению персонала
+article_type:article
+source:labor_code_kz.txt
+content_length:7076
+estimated_tokens:1090

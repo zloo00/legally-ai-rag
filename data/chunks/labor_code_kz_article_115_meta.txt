@@ -1,0 +1,6 @@
+article_number:115
+article_title:с изменением, внесенным Законом РК от 01.07.2021 № 61-VII (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).
+article_type:article
+source:labor_code_kz.txt
+content_length:77
+estimated_tokens:10

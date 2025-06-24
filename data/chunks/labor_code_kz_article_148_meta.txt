@@ -1,0 +1,6 @@
+article_number:148
+article_title:Организация социального партнерства
+article_type:article
+source:labor_code_kz.txt
+content_length:2471
+estimated_tokens:332

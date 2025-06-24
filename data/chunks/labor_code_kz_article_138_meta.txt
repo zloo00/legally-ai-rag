@@ -1,0 +1,6 @@
+article_number:138
+article_title:Дистанционная работа
+article_type:article
+source:labor_code_kz.txt
+content_length:6717
+estimated_tokens:1032

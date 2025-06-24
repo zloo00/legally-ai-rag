@@ -1,0 +1,6 @@
+article_number:271
+article_title:Основания возникновения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:149
+estimated_tokens:24

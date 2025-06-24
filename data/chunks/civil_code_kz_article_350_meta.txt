@@ -1,0 +1,6 @@
+article_number:350
+article_title:Возмещение убытков, вызванных нарушением обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:1398
+estimated_tokens:224

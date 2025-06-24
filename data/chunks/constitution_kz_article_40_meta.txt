@@ -1,0 +1,6 @@
+article_number:40
+article_title:Примечание. См. нормативное постановление Конституционного Суда РК от 08.04.2023 № 7-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:537
+estimated_tokens:83

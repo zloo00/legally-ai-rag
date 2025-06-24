@@ -1,0 +1,6 @@
+article_number:128
+article_title:Валютные ценности
+article_type:article
+source:civil_code_kz.txt
+content_length:380
+estimated_tokens:66

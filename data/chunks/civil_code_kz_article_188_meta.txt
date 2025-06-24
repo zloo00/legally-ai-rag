@@ -1,0 +1,6 @@
+article_number:188
+article_title:Понятие и содержание права собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:2090
+estimated_tokens:338

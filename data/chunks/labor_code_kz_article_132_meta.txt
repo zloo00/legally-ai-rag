@@ -1,0 +1,6 @@
+article_number:132
+article_title:Порядок и условия выплаты полевого довольствия
+article_type:article
+source:labor_code_kz.txt
+content_length:696
+estimated_tokens:106

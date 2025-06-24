@@ -1,0 +1,6 @@
+article_number:4
+article_title:Действие гражданского законодательства во времени
+article_type:article
+source:civil_code_kz.txt
+content_length:627
+estimated_tokens:106

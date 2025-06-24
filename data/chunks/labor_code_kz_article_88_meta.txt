@@ -1,0 +1,6 @@
+article_number:88
+article_title:Продолжительность основного оплачиваемого ежегодного трудового отпуска
+article_type:article
+source:labor_code_kz.txt
+content_length:307
+estimated_tokens:41

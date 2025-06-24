@@ -1,0 +1,6 @@
+article_number:313
+article_title:Последствия утраты или повреждения заложенного имущества
+article_type:article
+source:civil_code_kz.txt
+content_length:1223
+estimated_tokens:206

@@ -1,0 +1,6 @@
+article_number:47
+article_title:Передаточный акт и разделительный баланс
+article_type:article
+source:civil_code_kz.txt
+content_length:1300
+estimated_tokens:202

@@ -1,0 +1,6 @@
+article_number:15
+article_title:Компетенция Правительства Республики Казахстан в области регулирования трудовых отношений
+article_type:article
+source:labor_code_kz.txt
+content_length:1205
+estimated_tokens:197

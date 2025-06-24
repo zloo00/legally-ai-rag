@@ -1,0 +1,6 @@
+article_number:264
+article_title:Защита прав собственника от нарушений, не соединенных с лишением владения
+article_type:article
+source:civil_code_kz.txt
+content_length:130
+estimated_tokens:24

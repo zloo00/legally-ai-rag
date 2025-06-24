@@ -1,0 +1,6 @@
+article_number:141
+article_title:Регулирование труда работников в сфере гражданской и экспериментальной авиации
+article_type:article
+source:labor_code_kz.txt
+content_length:1022
+estimated_tokens:152

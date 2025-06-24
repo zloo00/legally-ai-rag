@@ -1,0 +1,6 @@
+article_number:173
+article_title:Полномочия органа, возглавляющего забастовку
+article_type:article
+source:labor_code_kz.txt
+content_length:1464
+estimated_tokens:217

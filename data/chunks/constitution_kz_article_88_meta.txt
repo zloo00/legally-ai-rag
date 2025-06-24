@@ -1,0 +1,6 @@
+article_number:88
+article_title:1. Маслихаты принимают по вопросам своей компетенции решения, а акимы - решения и распоряжения, обязательные для исполнения на территории соответствующей административно-территориальной единицы.
+article_type:article
+source:constitution_kz.txt
+content_length:515
+estimated_tokens:80

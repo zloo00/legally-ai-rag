@@ -1,0 +1,6 @@
+article_number:126
+article_title:Гарантии для работников, являющихся донорами
+article_type:article
+source:labor_code_kz.txt
+content_length:275
+estimated_tokens:45

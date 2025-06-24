@@ -1,0 +1,6 @@
+article_number:40
+article_title:Прикомандирование работника
+article_type:article
+source:labor_code_kz.txt
+content_length:4153
+estimated_tokens:604

@@ -1,0 +1,6 @@
+article_number:92
+article_title:Управление акционерным обществом
+article_type:article
+source:civil_code_kz.txt
+content_length:2005
+estimated_tokens:293

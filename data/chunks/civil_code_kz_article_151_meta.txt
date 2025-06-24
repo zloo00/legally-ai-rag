@@ -1,0 +1,6 @@
+article_number:151
+article_title:Форма сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:890
+estimated_tokens:150

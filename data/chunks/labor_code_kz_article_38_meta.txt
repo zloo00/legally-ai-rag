@@ -1,0 +1,6 @@
+article_number:38
+article_title:Перевод работника на другую работу
+article_type:article
+source:labor_code_kz.txt
+content_length:880
+estimated_tokens:140

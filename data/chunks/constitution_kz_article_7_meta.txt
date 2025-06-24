@@ -1,0 +1,6 @@
+article_number:7
+article_title:1. В Республике Казахстан государственным является казахский язык.
+article_type:article
+source:constitution_kz.txt
+content_length:309
+estimated_tokens:49

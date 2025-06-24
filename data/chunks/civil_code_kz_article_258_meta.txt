@@ -1,0 +1,6 @@
+article_number:258
+article_title:Прекращение вещных прав, принадлежащих несобственнику
+article_type:article
+source:civil_code_kz.txt
+content_length:335
+estimated_tokens:52

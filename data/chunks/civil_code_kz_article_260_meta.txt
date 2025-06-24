@@ -1,0 +1,6 @@
+article_number:260
+article_title:Истребование имущества собственником из чужого незаконного владения
+article_type:article
+source:civil_code_kz.txt
+content_length:77
+estimated_tokens:11

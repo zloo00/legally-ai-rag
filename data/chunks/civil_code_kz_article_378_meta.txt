@@ -1,0 +1,6 @@
+article_number:378
+article_title:Понятие договора
+article_type:article
+source:civil_code_kz.txt
+content_length:436
+estimated_tokens:71

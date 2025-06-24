@@ -1,0 +1,6 @@
+article_number:75
+article_title:Суммированный учет рабочего времени
+article_type:article
+source:labor_code_kz.txt
+content_length:2218
+estimated_tokens:360

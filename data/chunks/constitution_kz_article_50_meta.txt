@@ -1,0 +1,6 @@
+article_number:50
+article_title:1. Парламент состоит из двух Палат: Сената и Мажилиса, действующих на постоянной основе.
+article_type:article
+source:constitution_kz.txt
+content_length:806
+estimated_tokens:126

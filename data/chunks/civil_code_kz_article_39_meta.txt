@@ -1,0 +1,6 @@
+article_number:39
+article_title:Место нахождения юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:611
+estimated_tokens:98

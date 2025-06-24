@@ -1,0 +1,6 @@
+article_number:5
+article_title:Стороны пришли к соглашению, что эксплуатационная ответственность за
+article_type:article
+source:rental_contract_template.txt
+content_length:233
+estimated_tokens:32

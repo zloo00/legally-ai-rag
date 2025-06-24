@@ -1,0 +1,6 @@
+article_number:182
+article_title:Права и обязанности работодателя в области безопасности и охраны труда
+article_type:article
+source:labor_code_kz.txt
+content_length:4677
+estimated_tokens:718

@@ -1,0 +1,6 @@
+article_number:230
+article_title:Общее имущество участников договора
+article_type:article
+source:civil_code_kz.txt
+content_length:668
+estimated_tokens:117

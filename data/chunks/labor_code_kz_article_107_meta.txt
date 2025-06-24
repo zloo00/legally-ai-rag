@@ -1,0 +1,6 @@
+article_number:107
+article_title:Система оплаты труда
+article_type:article
+source:labor_code_kz.txt
+content_length:956
+estimated_tokens:148

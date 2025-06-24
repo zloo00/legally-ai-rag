@@ -1,0 +1,6 @@
+article_number:149
+article_title:Правовое регулирование односторонних сделок
+article_type:article
+source:civil_code_kz.txt
+content_length:386
+estimated_tokens:63

@@ -1,0 +1,6 @@
+article_number:315
+article_title:Пользование и распоряжение предметом залога
+article_type:article
+source:civil_code_kz.txt
+content_length:1004
+estimated_tokens:169

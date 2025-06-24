@@ -1,0 +1,6 @@
+article_number:126-2
+article_title:Гарантии для работников, являющихся донорами органов (частей органов) и (или) тканей (частей ткани) для трансплантации
+article_type:article
+source:labor_code_kz.txt
+content_length:581
+estimated_tokens:100

@@ -1,0 +1,6 @@
+article_number:27
+article_title:Ограничение дееспособности гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:787
+estimated_tokens:120

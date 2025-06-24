@@ -1,0 +1,6 @@
+article_number:5
+article_title:1. В Республике Казахстан признаются идеологическое и политическое многообразие. Не допускается создание в государственных органах организаций политических партий.
+article_type:article
+source:constitution_kz.txt
+content_length:1235
+estimated_tokens:170

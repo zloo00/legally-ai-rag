@@ -1,0 +1,6 @@
+article_number:187
+article_title:Требования, на которые исковая давность не распространяется
+article_type:article
+source:civil_code_kz.txt
+content_length:1111
+estimated_tokens:205

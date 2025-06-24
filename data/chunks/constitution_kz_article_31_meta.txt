@@ -1,0 +1,6 @@
+article_number:31
+article_title:1. Государство ставит целью охрану окружающей среды, благоприятной для жизни и здоровья человека.
+article_type:article
+source:constitution_kz.txt
+content_length:228
+estimated_tokens:36

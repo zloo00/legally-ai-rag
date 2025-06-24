@@ -1,0 +1,6 @@
+article_number:84
+article_title:Выходные дни
+article_type:article
+source:labor_code_kz.txt
+content_length:1483
+estimated_tokens:231

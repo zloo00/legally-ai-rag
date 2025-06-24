@@ -1,0 +1,6 @@
+article_number:354
+article_title:Ответственность и исполнение обязательства в натуре
+article_type:article
+source:civil_code_kz.txt
+content_length:529
+estimated_tokens:87

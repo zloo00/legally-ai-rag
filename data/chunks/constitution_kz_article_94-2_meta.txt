@@ -1,0 +1,6 @@
+article_number:94-2
+article_title:Положение пункта 5 статьи 42 Конституции применяется к лицам, избранным Президентом Республики по итогам президентских выборов, проведенных после вступления в силу данной нормы Конституции.
+article_type:article
+source:constitution_kz.txt
+content_length:162
+estimated_tokens:28

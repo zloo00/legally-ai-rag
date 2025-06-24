@@ -1,0 +1,6 @@
+article_number:381
+article_title:Смешанный договор
+article_type:article
+source:civil_code_kz.txt
+content_length:375
+estimated_tokens:57

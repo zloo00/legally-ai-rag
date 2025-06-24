@@ -1,0 +1,6 @@
+article_number:198
+article_title:Порядок обжалования решений, действий (бездействия) государственного инспектора труда, осуществляющего государственный контроль
+article_type:article
+source:labor_code_kz.txt
+content_length:2053
+estimated_tokens:325

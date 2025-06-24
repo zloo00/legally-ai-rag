@@ -1,0 +1,6 @@
+article_number:384
+article_title:Возмездный и безвозмездный договор
+article_type:article
+source:civil_code_kz.txt
+content_length:430
+estimated_tokens:70

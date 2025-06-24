@@ -1,0 +1,6 @@
+article_number:128
+article_title:Компенсационные выплаты при переводе работника в другую местность вместе с работодателем
+article_type:article
+source:labor_code_kz.txt
+content_length:383
+estimated_tokens:66

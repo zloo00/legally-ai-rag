@@ -1,0 +1,6 @@
+article_number:219
+article_title:Общая совместная собственность
+article_type:article
+source:civil_code_kz.txt
+content_length:421
+estimated_tokens:66

@@ -1,0 +1,6 @@
+article_number:22
+article_title:Дееспособность несовершеннолетних в возрасте от четырнадцати до восемнадцати лет
+article_type:article
+source:civil_code_kz.txt
+content_length:1027
+estimated_tokens:156

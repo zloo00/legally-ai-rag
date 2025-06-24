@@ -1,0 +1,6 @@
+article_number:129
+article_title:Компенсационные выплаты в связи с использованием работником личного имущества в интересах работодателя
+article_type:article
+source:labor_code_kz.txt
+content_length:288
+estimated_tokens:44

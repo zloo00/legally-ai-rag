@@ -1,0 +1,6 @@
+article_number:23
+article_title:1. Граждане Республики Казахстан имеют право на свободу объединений. Деятельность общественных объединений регулируется законом.
+article_type:article
+source:constitution_kz.txt
+content_length:389
+estimated_tokens:55

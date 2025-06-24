@@ -1,0 +1,6 @@
+article_number:143-1
+article_title:Регулирование труда лиц, на которых распространяются требования Закона Республики Казахстан "О противодействии коррупции"
+article_type:article
+source:labor_code_kz.txt
+content_length:429
+estimated_tokens:67

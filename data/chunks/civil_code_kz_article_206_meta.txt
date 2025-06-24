@@ -1,0 +1,6 @@
+article_number:206
+article_title:Распоряжение имуществом учреждения
+article_type:article
+source:civil_code_kz.txt
+content_length:335
+estimated_tokens:46

@@ -1,0 +1,6 @@
+article_number:167
+article_title:Рассмотрение коллективного трудового спора с участием посредника
+article_type:article
+source:labor_code_kz.txt
+content_length:730
+estimated_tokens:110

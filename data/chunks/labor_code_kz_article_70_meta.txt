@@ -1,0 +1,6 @@
+article_number:70
+article_title:Неполное рабочее время
+article_type:article
+source:labor_code_kz.txt
+content_length:1264
+estimated_tokens:205

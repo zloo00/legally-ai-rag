@@ -1,0 +1,6 @@
+article_number:81
+article_title:Перерыв для отдыха и приема пищи
+article_type:article
+source:labor_code_kz.txt
+content_length:723
+estimated_tokens:123

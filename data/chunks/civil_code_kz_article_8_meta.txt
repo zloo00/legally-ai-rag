@@ -1,0 +1,6 @@
+article_number:8
+article_title:Осуществление гражданских прав
+article_type:article
+source:civil_code_kz.txt
+content_length:1346
+estimated_tokens:218

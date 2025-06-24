@@ -1,0 +1,6 @@
+article_number:76
+article_title:Работа в ночное время
+article_type:article
+source:labor_code_kz.txt
+content_length:738
+estimated_tokens:139

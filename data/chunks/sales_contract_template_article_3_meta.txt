@@ -1,0 +1,6 @@
+article_number:3
+article_title:4. Передача Товаров осуществляется Продавцом на своем складе либо по желанию
+article_type:article
+source:sales_contract_template.txt
+content_length:283
+estimated_tokens:48

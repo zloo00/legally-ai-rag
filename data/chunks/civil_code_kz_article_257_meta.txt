@@ -1,0 +1,6 @@
+article_number:257
+article_title:Оценка имущества при прекращении права собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:150
+estimated_tokens:24

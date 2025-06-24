@@ -1,0 +1,6 @@
+article_number:364
+article_title:Вина кредитора
+article_type:article
+source:civil_code_kz.txt
+content_length:714
+estimated_tokens:122

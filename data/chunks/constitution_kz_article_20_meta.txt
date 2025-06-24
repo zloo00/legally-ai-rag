@@ -1,0 +1,6 @@
+article_number:20
+article_title:Примечание. См. нормативные постановления Конституционного Суда РК от 20.01.2025 № 61-НП; от 26.02.2025 № 67-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:788
+estimated_tokens:114

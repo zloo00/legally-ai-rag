@@ -1,0 +1,6 @@
+article_number:67
+article_title:Премьер-Министр Республики Казахстан:
+article_type:article
+source:constitution_kz.txt
+content_length:471
+estimated_tokens:75

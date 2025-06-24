@@ -1,0 +1,6 @@
+article_number:253
+article_title:Реквизиция
+article_type:article
+source:civil_code_kz.txt
+content_length:723
+estimated_tokens:120

@@ -1,0 +1,6 @@
+article_number:338-1
+article_title:Общие положения об удержании
+article_type:article
+source:civil_code_kz.txt
+content_length:800
+estimated_tokens:146

@@ -1,0 +1,6 @@
+article_number:179
+article_title:Применение исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:541
+estimated_tokens:96

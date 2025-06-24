@@ -1,0 +1,6 @@
+article_number:183
+article_title:Аттестация производственных объектов по условиям труда
+article_type:article
+source:labor_code_kz.txt
+content_length:2265
+estimated_tokens:336

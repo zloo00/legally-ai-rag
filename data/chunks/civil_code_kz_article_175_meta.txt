@@ -1,0 +1,6 @@
+article_number:175
+article_title:Окончание срока в нерабочий день
+article_type:article
+source:civil_code_kz.txt
+content_length:127
+estimated_tokens:23

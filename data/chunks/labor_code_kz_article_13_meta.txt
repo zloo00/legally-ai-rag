@@ -1,0 +1,6 @@
+article_number:13
+article_title:Исчисление сроков, установленных настоящим Кодексом
+article_type:article
+source:labor_code_kz.txt
+content_length:1059
+estimated_tokens:178

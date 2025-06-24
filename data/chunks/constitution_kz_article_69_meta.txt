@@ -1,0 +1,6 @@
+article_number:69
+article_title:1. Правительство Республики Казахстан по вопросам своей компетенции издает постановления, имеющие обязательную силу на всей территории Республики.
+article_type:article
+source:constitution_kz.txt
+content_length:276
+estimated_tokens:37

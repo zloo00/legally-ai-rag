@@ -1,0 +1,6 @@
+article_number:92
+article_title:Определение периода и порядок предоставления оплачиваемых ежегодных трудовых отпусков
+article_type:article
+source:labor_code_kz.txt
+content_length:1360
+estimated_tokens:226

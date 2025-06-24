@@ -1,0 +1,6 @@
+article_number:216
+article_title:Преимущественное право покупки
+article_type:article
+source:civil_code_kz.txt
+content_length:1505
+estimated_tokens:269

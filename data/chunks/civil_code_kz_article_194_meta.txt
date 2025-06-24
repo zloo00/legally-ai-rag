@@ -1,0 +1,6 @@
+article_number:194
+article_title:Право собственности и иные вещные права на жилище
+article_type:article
+source:civil_code_kz.txt
+content_length:115
+estimated_tokens:16

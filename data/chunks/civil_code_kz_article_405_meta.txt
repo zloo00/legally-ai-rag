@@ -1,0 +1,6 @@
+article_number:405
+article_title:Продление срока действия договора
+article_type:article
+source:civil_code_kz.txt
+content_length:146
+estimated_tokens:24

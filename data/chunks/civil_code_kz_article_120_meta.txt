@@ -1,0 +1,6 @@
+article_number:120
+article_title:Делимое и неделимое имущество
+article_type:article
+source:civil_code_kz.txt
+content_length:435
+estimated_tokens:74

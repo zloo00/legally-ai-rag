@@ -1,0 +1,6 @@
+article_number:175
+article_title:Гарантии работникам в связи с проведением забастовки
+article_type:article
+source:labor_code_kz.txt
+content_length:856
+estimated_tokens:135

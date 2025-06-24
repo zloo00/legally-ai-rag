@@ -1,0 +1,6 @@
+article_number:277
+article_title:Срок исполнения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:848
+estimated_tokens:143

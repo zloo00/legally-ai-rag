@@ -1,0 +1,6 @@
+article_number:185
+article_title:с изменениями, внесенными Законом РК от 16.04.2018 № 147-VІ (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).
+article_type:article
+source:labor_code_kz.txt
+content_length:85
+estimated_tokens:14

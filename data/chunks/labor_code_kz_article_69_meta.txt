@@ -1,0 +1,6 @@
+article_number:69
+article_title:Сокращенная продолжительность рабочего времени для отдельных категорий работников
+article_type:article
+source:labor_code_kz.txt
+content_length:1727
+estimated_tokens:278

@@ -1,0 +1,6 @@
+article_number:24
+article_title:Согласие органов опеки и попечительства на совершение сделок несовершеннолетним и за несовершеннолетнего
+article_type:article
+source:civil_code_kz.txt
+content_length:191
+estimated_tokens:27

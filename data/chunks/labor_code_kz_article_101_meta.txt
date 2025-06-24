@@ -1,0 +1,6 @@
+article_number:101
+article_title:Нормирование труда
+article_type:article
+source:labor_code_kz.txt
+content_length:3392
+estimated_tokens:531

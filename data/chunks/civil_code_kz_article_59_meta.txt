@@ -1,0 +1,6 @@
+article_number:59
+article_title:Вклад в уставный капитал хозяйственного товарищества. Доля участника в уставном капитале и имуществе хозяйственного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:3488
+estimated_tokens:526

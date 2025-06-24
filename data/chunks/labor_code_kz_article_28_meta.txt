@@ -1,0 +1,6 @@
+article_number:28
+article_title:Содержание трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:1873
+estimated_tokens:302

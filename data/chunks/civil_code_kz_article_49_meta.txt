@@ -1,0 +1,6 @@
+article_number:49
+article_title:Основания ликвидации юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:2782
+estimated_tokens:408

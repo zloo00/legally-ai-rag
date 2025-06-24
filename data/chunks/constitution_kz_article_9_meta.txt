@@ -1,0 +1,6 @@
+article_number:9
+article_title:Республика Казахстан имеет государственные символы - Флаг, Герб и Гимн. Их описание и порядок официального использования устанавливаются конституционным законом.
+article_type:article
+source:constitution_kz.txt
+content_length:307
+estimated_tokens:55

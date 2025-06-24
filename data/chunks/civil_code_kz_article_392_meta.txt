@@ -1,0 +1,6 @@
+article_number:392
+article_title:Толкование договора
+article_type:article
+source:civil_code_kz.txt
+content_length:718
+estimated_tokens:118

@@ -1,0 +1,6 @@
+article_number:340
+article_title:Права, которые не могут переходить к другим лицам
+article_type:article
+source:civil_code_kz.txt
+content_length:179
+estimated_tokens:32

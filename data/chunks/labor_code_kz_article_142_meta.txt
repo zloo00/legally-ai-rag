@@ -1,0 +1,6 @@
+article_number:142
+article_title:Регулирование труда работников, относящихся к членам экипажей морских судов (плавательный состав)
+article_type:article
+source:labor_code_kz.txt
+content_length:403
+estimated_tokens:58

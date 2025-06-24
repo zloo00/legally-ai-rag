@@ -1,0 +1,6 @@
+article_number:316
+article_title:Защита залогодержателем своих прав на предмет залога
+article_type:article
+source:civil_code_kz.txt
+content_length:470
+estimated_tokens:87

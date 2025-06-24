@@ -1,0 +1,6 @@
+article_number:121
+article_title:Материальная ответственность работодателя за ущерб, причиненный работнику незаконным лишением его возможности трудиться
+article_type:article
+source:labor_code_kz.txt
+content_length:486
+estimated_tokens:72

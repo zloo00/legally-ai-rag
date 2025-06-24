@@ -1,0 +1,6 @@
+article_number:56
+article_title:Порядок расторжения трудового договора по инициативе работника
+article_type:article
+source:labor_code_kz.txt
+content_length:1336
+estimated_tokens:205

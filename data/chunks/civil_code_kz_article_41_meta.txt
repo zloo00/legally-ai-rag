@@ -1,0 +1,6 @@
+article_number:41
+article_title:Учредительные документы юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:3315
+estimated_tokens:504

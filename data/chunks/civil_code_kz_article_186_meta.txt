@@ -1,0 +1,6 @@
+article_number:186
+article_title:Исполнение обязанности по истечении срока исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:217
+estimated_tokens:40

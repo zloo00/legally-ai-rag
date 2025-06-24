@@ -1,0 +1,6 @@
+article_number:156
+article_title:Стороны коллективного договора. Порядок ведения коллективных переговоров, разработки и заключения коллективного договора
+article_type:article
+source:labor_code_kz.txt
+content_length:2783
+estimated_tokens:432

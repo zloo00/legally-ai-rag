@@ -1,0 +1,6 @@
+article_number:128-5
+article_title:Форвард
+article_type:article
+source:civil_code_kz.txt
+content_length:265
+estimated_tokens:44

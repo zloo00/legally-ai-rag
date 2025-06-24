@@ -1,0 +1,6 @@
+article_number:133
+article_title:Исполнение по ценной бумаге
+article_type:article
+source:civil_code_kz.txt
+content_length:1087
+estimated_tokens:185

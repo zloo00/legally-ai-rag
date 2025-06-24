@@ -1,0 +1,6 @@
+article_number:146
+article_title:Регулирование труда работников, входящих в состав профсоюзных органов профессионального союза
+article_type:article
+source:labor_code_kz.txt
+content_length:201
+estimated_tokens:27

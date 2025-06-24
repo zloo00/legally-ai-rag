@@ -1,0 +1,6 @@
+article_number:237
+article_title:Переработка
+article_type:article
+source:civil_code_kz.txt
+content_length:954
+estimated_tokens:145

@@ -1,0 +1,6 @@
+article_number:68
+article_title:Исключение участника из полного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:481
+estimated_tokens:79

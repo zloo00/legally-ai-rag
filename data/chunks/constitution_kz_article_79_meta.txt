@@ -1,0 +1,6 @@
+article_number:79
+article_title:Примечание. См. нормативное постановление Конституционного Суда РК от 29.05.2024 № 45-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:1049
+estimated_tokens:157

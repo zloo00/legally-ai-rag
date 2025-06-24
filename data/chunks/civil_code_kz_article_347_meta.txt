@@ -1,0 +1,6 @@
+article_number:347
+article_title:Ответственность кредитора, уступившего требование
+article_type:article
+source:civil_code_kz.txt
+content_length:444
+estimated_tokens:79

@@ -1,0 +1,6 @@
+article_number:16
+article_title:Место жительства и юридический адрес гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:683
+estimated_tokens:109

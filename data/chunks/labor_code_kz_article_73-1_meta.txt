@@ -1,0 +1,6 @@
+article_number:73-1
+article_title:Скользящий график работы
+article_type:article
+source:labor_code_kz.txt
+content_length:948
+estimated_tokens:158

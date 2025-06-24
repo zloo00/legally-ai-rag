@@ -1,0 +1,6 @@
+article_number:289
+article_title:Регрессные требования
+article_type:article
+source:civil_code_kz.txt
+content_length:908
+estimated_tokens:148

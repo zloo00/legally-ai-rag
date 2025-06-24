@@ -1,0 +1,6 @@
+article_number:285
+article_title:Исполнение альтернативного обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:163
+estimated_tokens:27

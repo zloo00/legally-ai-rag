@@ -1,0 +1,6 @@
+article_number:278
+article_title:Требования к равномерности исполнения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:325
+estimated_tokens:52

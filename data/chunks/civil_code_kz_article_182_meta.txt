@@ -1,0 +1,6 @@
+article_number:182
+article_title:Приостановление течения срока исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:1694
+estimated_tokens:273

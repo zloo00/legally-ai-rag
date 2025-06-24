@@ -1,0 +1,6 @@
+article_number:207
+article_title:Ответственность учредителя по долгам казенного предприятия и учреждения
+article_type:article
+source:civil_code_kz.txt
+content_length:577
+estimated_tokens:87

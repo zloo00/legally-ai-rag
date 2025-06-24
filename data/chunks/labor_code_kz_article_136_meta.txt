@@ -1,0 +1,6 @@
+article_number:136
+article_title:Домашние работники
+article_type:article
+source:labor_code_kz.txt
+content_length:817
+estimated_tokens:140

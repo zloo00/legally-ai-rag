@@ -1,0 +1,6 @@
+article_number:174
+article_title:Обязанности сторон коллективного трудового спора в ходе забастовки
+article_type:article
+source:labor_code_kz.txt
+content_length:485
+estimated_tokens:74

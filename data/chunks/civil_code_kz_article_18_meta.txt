@@ -1,0 +1,6 @@
+article_number:18
+article_title:Недопустимость лишения и ограничения правоспособности и дееспособности
+article_type:article
+source:civil_code_kz.txt
+content_length:704
+estimated_tokens:104

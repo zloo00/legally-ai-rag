@@ -1,0 +1,6 @@
+article_number:78
+article_title:Предельное количество сверхурочных работ
+article_type:article
+source:labor_code_kz.txt
+content_length:593
+estimated_tokens:107

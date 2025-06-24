@@ -1,0 +1,6 @@
+article_number:156
+article_title:Биржевые сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:1279
+estimated_tokens:204

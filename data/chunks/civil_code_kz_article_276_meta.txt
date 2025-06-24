@@ -1,0 +1,6 @@
+article_number:276
+article_title:Исполнение обязательства третьим лицом
+article_type:article
+source:civil_code_kz.txt
+content_length:866
+estimated_tokens:148

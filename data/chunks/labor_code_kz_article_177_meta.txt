@@ -1,0 +1,6 @@
+article_number:177
+article_title:Последствия признания забастовки незаконной
+article_type:article
+source:labor_code_kz.txt
+content_length:175
+estimated_tokens:24

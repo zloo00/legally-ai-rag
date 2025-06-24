@@ -1,0 +1,6 @@
+article_number:290
+article_title:Удостоверение исполнения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:781
+estimated_tokens:128

@@ -1,0 +1,6 @@
+article_number:304
+article_title:Залог имущества, находящегося в общей собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:187
+estimated_tokens:32

@@ -1,0 +1,6 @@
+article_number:390
+article_title:Предварительный договор
+article_type:article
+source:civil_code_kz.txt
+content_length:1632
+estimated_tokens:262

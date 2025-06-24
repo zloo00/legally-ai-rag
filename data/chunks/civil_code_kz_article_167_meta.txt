@@ -1,0 +1,6 @@
+article_number:167
+article_title:Доверенность
+article_type:article
+source:civil_code_kz.txt
+content_length:3250
+estimated_tokens:496

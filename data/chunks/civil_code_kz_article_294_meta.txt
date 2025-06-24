@@ -1,0 +1,6 @@
+article_number:294
+article_title:Форма соглашения о неустойке
+article_type:article
+source:civil_code_kz.txt
+content_length:190
+estimated_tokens:29

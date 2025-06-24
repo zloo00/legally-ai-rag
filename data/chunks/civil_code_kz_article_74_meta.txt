@@ -1,0 +1,6 @@
+article_number:74
+article_title:Уставный капитал коммандитного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:1314
+estimated_tokens:182

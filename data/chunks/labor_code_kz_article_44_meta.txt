@@ -1,0 +1,6 @@
+article_number:44
+article_title:Временный перевод на другую работу беременных женщин
+article_type:article
+source:labor_code_kz.txt
+content_length:941
+estimated_tokens:157

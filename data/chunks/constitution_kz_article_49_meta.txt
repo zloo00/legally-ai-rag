@@ -1,0 +1,6 @@
+article_number:49
+article_title:1. Парламент Республики Казахстан является высшим представительным органом Республики, осуществляющим законодательную власть.
+article_type:article
+source:constitution_kz.txt
+content_length:373
+estimated_tokens:59

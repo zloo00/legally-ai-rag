@@ -1,0 +1,6 @@
+article_number:363
+article_title:Ответственность должника за действия третьих лиц
+article_type:article
+source:civil_code_kz.txt
+content_length:1253
+estimated_tokens:198

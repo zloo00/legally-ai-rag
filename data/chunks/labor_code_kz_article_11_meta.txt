@@ -1,0 +1,6 @@
+article_number:11
+article_title:Акты работодателя
+article_type:article
+source:labor_code_kz.txt
+content_length:356
+estimated_tokens:52

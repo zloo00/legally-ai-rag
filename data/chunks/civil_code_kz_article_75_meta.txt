@@ -1,0 +1,6 @@
+article_number:75
+article_title:Управление делами коммандитного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:475
+estimated_tokens:72

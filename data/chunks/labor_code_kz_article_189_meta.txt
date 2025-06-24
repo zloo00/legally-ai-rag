@@ -1,0 +1,6 @@
+article_number:189
+article_title:Порядок расследования несчастных случаев, связанных с трудовой деятельностью
+article_type:article
+source:labor_code_kz.txt
+content_length:3379
+estimated_tokens:508

@@ -1,0 +1,6 @@
+article_number:4
+article_title:5. Право собственности на купленный товар переходит Покупателю с момента
+article_type:article
+source:sales_contract_template.txt
+content_length:38
+estimated_tokens:6

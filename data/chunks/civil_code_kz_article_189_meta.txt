@@ -1,0 +1,6 @@
+article_number:189
+article_title:Бремя содержания имущества
+article_type:article
+source:civil_code_kz.txt
+content_length:496
+estimated_tokens:84

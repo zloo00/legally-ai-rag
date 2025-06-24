@@ -1,0 +1,6 @@
+article_number:356
+article_title:Исполнение обязательства за счет должника
+article_type:article
+source:civil_code_kz.txt
+content_length:448
+estimated_tokens:75

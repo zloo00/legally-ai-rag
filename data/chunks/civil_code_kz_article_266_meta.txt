@@ -1,0 +1,6 @@
+article_number:266
+article_title:Защита интересов собственника при прекращении его прав по основаниям, предусмотренным законом
+article_type:article
+source:civil_code_kz.txt
+content_length:227
+estimated_tokens:32

@@ -1,0 +1,6 @@
+article_number:367
+article_title:Основания прекращения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:515
+estimated_tokens:74

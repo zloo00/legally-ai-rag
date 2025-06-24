@@ -1,0 +1,6 @@
+article_number:45
+article_title:Перемещение работника на другое рабочее место.Изменение наименования должности (работы)
+article_type:article
+source:labor_code_kz.txt
+content_length:563
+estimated_tokens:91

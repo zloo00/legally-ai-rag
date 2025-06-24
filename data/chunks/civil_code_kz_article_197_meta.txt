@@ -1,0 +1,6 @@
+article_number:197
+article_title:Объект права хозяйственного ведения
+article_type:article
+source:civil_code_kz.txt
+content_length:146
+estimated_tokens:22

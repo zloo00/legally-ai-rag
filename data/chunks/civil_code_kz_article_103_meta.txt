@@ -1,0 +1,6 @@
+article_number:103
+article_title:Предприятие, основанное на праве хозяйственного ведения
+article_type:article
+source:civil_code_kz.txt
+content_length:572
+estimated_tokens:81

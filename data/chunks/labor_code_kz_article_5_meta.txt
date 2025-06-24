@@ -1,0 +1,6 @@
+article_number:5
+article_title:Свобода труда
+article_type:article
+source:labor_code_kz.txt
+content_length:223
+estimated_tokens:42

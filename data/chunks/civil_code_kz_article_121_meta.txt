@@ -1,0 +1,6 @@
+article_number:121
+article_title:Сложные вещи
+article_type:article
+source:civil_code_kz.txt
+content_length:313
+estimated_tokens:53

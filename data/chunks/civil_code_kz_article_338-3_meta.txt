@@ -1,0 +1,6 @@
+article_number:338-3
+article_title:Понятие гарантийного взноса
+article_type:article
+source:civil_code_kz.txt
+content_length:430
+estimated_tokens:63

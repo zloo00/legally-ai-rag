@@ -1,0 +1,6 @@
+article_number:279
+article_title:Досрочное исполнение обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:451
+estimated_tokens:68

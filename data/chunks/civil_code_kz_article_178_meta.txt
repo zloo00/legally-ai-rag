@@ -1,0 +1,6 @@
+article_number:178
+article_title:Сроки исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:398
+estimated_tokens:66

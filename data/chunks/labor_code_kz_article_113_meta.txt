@@ -1,0 +1,6 @@
+article_number:113
+article_title:Порядок и сроки выплаты заработной платы
+article_type:article
+source:labor_code_kz.txt
+content_length:2026
+estimated_tokens:334

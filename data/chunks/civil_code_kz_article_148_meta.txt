@@ -1,0 +1,6 @@
+article_number:148
+article_title:Односторонние сделки и договоры
+article_type:article
+source:civil_code_kz.txt
+content_length:400
+estimated_tokens:65

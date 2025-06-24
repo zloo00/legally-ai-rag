@@ -1,0 +1,6 @@
+article_number:14
+article_title:Ответственность за нарушение трудового законодательства Республики Казахстан
+article_type:article
+source:labor_code_kz.txt
+content_length:213
+estimated_tokens:31

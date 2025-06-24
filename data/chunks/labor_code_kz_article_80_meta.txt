@@ -1,0 +1,6 @@
+article_number:80
+article_title:Виды времени отдыха
+article_type:article
+source:labor_code_kz.txt
+content_length:260
+estimated_tokens:46

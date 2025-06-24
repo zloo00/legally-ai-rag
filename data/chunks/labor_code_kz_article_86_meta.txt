@@ -1,0 +1,6 @@
+article_number:86
+article_title:Исключительные случаи привлечения к работе в выходные и праздничные дни без согласия работника
+article_type:article
+source:labor_code_kz.txt
+content_length:539
+estimated_tokens:85

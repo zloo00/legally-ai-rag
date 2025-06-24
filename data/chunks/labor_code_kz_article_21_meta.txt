@@ -1,0 +1,6 @@
+article_number:21
+article_title:Основания возникновения трудовых отношений
+article_type:article
+source:labor_code_kz.txt
+content_length:944
+estimated_tokens:143

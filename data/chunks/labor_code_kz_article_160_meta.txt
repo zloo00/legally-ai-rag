@@ -1,0 +1,6 @@
+article_number:160
+article_title:Сроки обращения по рассмотрению индивидуальных трудовых споров
+article_type:article
+source:labor_code_kz.txt
+content_length:2050
+estimated_tokens:367

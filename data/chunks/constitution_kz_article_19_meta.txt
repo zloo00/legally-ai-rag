@@ -1,0 +1,6 @@
+article_number:19
+article_title:Примечание. См. нормативные постановление Конституционного Суда РК от 16.04.2025 № 70-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:337
+estimated_tokens:57

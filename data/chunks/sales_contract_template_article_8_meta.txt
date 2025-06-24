@@ -1,0 +1,6 @@
+article_number:8
+article_title:7. Во всем остальном, что не предусмотрено условиями настоящего Договора,
+article_type:article
+source:sales_contract_template.txt
+content_length:75
+estimated_tokens:7

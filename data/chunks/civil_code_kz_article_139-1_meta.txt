@@ -1,0 +1,6 @@
+article_number:139-1
+article_title:Банковский депозитный сертификат
+article_type:article
+source:civil_code_kz.txt
+content_length:459
+estimated_tokens:81

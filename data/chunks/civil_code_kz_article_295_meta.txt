@@ -1,0 +1,6 @@
+article_number:295
+article_title:Законная неустойка
+article_type:article
+source:civil_code_kz.txt
+content_length:288
+estimated_tokens:44

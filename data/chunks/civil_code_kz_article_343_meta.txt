@@ -1,0 +1,6 @@
+article_number:343
+article_title:Возражения должника против требования нового кредитора
+article_type:article
+source:civil_code_kz.txt
+content_length:205
+estimated_tokens:33

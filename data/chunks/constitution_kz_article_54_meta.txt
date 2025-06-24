@@ -1,0 +1,6 @@
+article_number:54
+article_title:1. Парламент принимает законы в раздельном заседании Палат путем последовательного рассмотрения вопросов вначале в Мажилисе, а затем в Сенате, в том числе:
+article_type:article
+source:constitution_kz.txt
+content_length:1425
+estimated_tokens:227

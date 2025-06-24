@@ -1,0 +1,6 @@
+article_number:120
+article_title:Обязанность стороны трудового договора по возмещению причиненного ущерба (вреда)
+article_type:article
+source:labor_code_kz.txt
+content_length:910
+estimated_tokens:141

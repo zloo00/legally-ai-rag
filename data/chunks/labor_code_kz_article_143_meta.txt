@@ -1,0 +1,6 @@
+article_number:143
+article_title:Регулирование труда государственных служащих, контрактных служащих в государственных органах, депутатов Парламента и маслихатов, судей Республики Казахстан
+article_type:article
+source:labor_code_kz.txt
+content_length:502
+estimated_tokens:74

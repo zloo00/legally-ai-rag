@@ -1,0 +1,6 @@
+article_number:128-4
+article_title:Своп
+article_type:article
+source:civil_code_kz.txt
+content_length:187
+estimated_tokens:32

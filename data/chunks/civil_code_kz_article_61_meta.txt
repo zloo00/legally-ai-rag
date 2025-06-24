@@ -1,0 +1,6 @@
+article_number:61
+article_title:Права и обязанности участников хозяйственного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:1362
+estimated_tokens:198

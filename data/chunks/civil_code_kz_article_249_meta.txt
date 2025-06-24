@@ -1,0 +1,6 @@
+article_number:249
+article_title:Основания прекращения права собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:2259
+estimated_tokens:356

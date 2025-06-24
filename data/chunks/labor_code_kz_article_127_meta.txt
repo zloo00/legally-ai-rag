@@ -1,0 +1,6 @@
+article_number:127
+article_title:Гарантии и компенсационные выплаты для работников, направляемых в командировки
+article_type:article
+source:labor_code_kz.txt
+content_length:1745
+estimated_tokens:288

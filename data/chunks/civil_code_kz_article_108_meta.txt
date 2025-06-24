@@ -1,0 +1,6 @@
+article_number:108
+article_title:Потребительский кооператив
+article_type:article
+source:civil_code_kz.txt
+content_length:2618
+estimated_tokens:426

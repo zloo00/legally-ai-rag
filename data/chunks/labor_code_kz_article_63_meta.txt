@@ -1,0 +1,6 @@
+article_number:63
+article_title:Правила трудового распорядка
+article_type:article
+source:labor_code_kz.txt
+content_length:239
+estimated_tokens:35

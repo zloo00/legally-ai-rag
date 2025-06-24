@@ -1,0 +1,6 @@
+article_number:3
+article_title:Гражданское законодательство Республики Казахстан
+article_type:article
+source:civil_code_kz.txt
+content_length:3461
+estimated_tokens:509

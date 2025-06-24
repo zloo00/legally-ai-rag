@@ -1,0 +1,6 @@
+article_number:82
+article_title:Принудительный выкуп доли у участника товарищества с ограниченной ответственностью
+article_type:article
+source:civil_code_kz.txt
+content_length:432
+estimated_tokens:61

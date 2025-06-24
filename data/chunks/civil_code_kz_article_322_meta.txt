@@ -1,0 +1,6 @@
+article_number:322
+article_title:Прекращение залога
+article_type:article
+source:civil_code_kz.txt
+content_length:483
+estimated_tokens:83

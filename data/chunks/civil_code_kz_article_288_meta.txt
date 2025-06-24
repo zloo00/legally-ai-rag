@@ -1,0 +1,6 @@
+article_number:288
+article_title:Исполнение субсидиарного обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:300
+estimated_tokens:44

@@ -1,0 +1,6 @@
+article_number:22
+article_title:Основные права и обязанности работника
+article_type:article
+source:labor_code_kz.txt
+content_length:4366
+estimated_tokens:700

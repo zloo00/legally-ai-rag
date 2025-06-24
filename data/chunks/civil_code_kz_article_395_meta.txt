@@ -1,0 +1,6 @@
+article_number:395
+article_title:Оферта
+article_type:article
+source:civil_code_kz.txt
+content_length:1179
+estimated_tokens:205

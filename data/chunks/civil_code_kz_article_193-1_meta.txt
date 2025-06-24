@@ -1,0 +1,6 @@
+article_number:193-1
+article_title:Стратегические объекты
+article_type:article
+source:civil_code_kz.txt
+content_length:4597
+estimated_tokens:685

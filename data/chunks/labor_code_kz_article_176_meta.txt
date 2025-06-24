@@ -1,0 +1,6 @@
+article_number:176
+article_title:Незаконные забастовки
+article_type:article
+source:labor_code_kz.txt
+content_length:3075
+estimated_tokens:462

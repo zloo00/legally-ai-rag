@@ -1,0 +1,6 @@
+article_number:229
+article_title:Ведение общих дел участников договора
+article_type:article
+source:civil_code_kz.txt
+content_length:491
+estimated_tokens:79

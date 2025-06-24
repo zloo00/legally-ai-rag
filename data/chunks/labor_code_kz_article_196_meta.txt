@@ -1,0 +1,6 @@
+article_number:196
+article_title:Взаимодействие государственной инспекции труда с другими государственными органами и организациями
+article_type:article
+source:labor_code_kz.txt
+content_length:419
+estimated_tokens:57

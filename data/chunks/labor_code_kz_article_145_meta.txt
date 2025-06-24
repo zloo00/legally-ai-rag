@@ -1,0 +1,6 @@
+article_number:145
+article_title:Регулирование труда работников Национального Банка Республики Казахстан и его ведомств
+article_type:article
+source:labor_code_kz.txt
+content_length:497
+estimated_tokens:75

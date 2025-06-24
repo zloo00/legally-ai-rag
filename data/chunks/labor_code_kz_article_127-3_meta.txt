@@ -1,0 +1,6 @@
+article_number:127-3
+article_title:Гарантии для работников, занятых на работах с вредными условиями труда
+article_type:article
+source:labor_code_kz.txt
+content_length:2680
+estimated_tokens:409

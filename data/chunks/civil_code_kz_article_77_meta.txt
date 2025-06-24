@@ -1,0 +1,6 @@
+article_number:77
+article_title:Основные положения о товариществе с ограниченной ответственностью
+article_type:article
+source:civil_code_kz.txt
+content_length:1913
+estimated_tokens:278

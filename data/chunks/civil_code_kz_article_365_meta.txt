@@ -1,0 +1,6 @@
+article_number:365
+article_title:Просрочка должника
+article_type:article
+source:civil_code_kz.txt
+content_length:450
+estimated_tokens:72

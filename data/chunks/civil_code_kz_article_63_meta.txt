@@ -1,0 +1,6 @@
+article_number:63
+article_title:Основные положения о полном товариществе
+article_type:article
+source:civil_code_kz.txt
+content_length:264
+estimated_tokens:39

@@ -1,0 +1,6 @@
+article_number:281
+article_title:Место исполнения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:1302
+estimated_tokens:240

@@ -1,0 +1,6 @@
+article_number:404
+article_title:Односторонний отказ от исполнения договора (отказ от договора)
+article_type:article
+source:civil_code_kz.txt
+content_length:317
+estimated_tokens:52

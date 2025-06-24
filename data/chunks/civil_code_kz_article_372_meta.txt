@@ -1,0 +1,6 @@
+article_number:372
+article_title:Прекращение обязательства новацией
+article_type:article
+source:civil_code_kz.txt
+content_length:557
+estimated_tokens:94

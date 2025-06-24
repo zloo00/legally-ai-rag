@@ -1,0 +1,6 @@
+article_number:326
+article_title:Перевод долга по обязательству, обеспеченному залогом
+article_type:article
+source:civil_code_kz.txt
+content_length:166
+estimated_tokens:28

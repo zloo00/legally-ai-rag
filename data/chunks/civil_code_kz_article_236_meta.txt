@@ -1,0 +1,6 @@
+article_number:236
+article_title:Возникновение права собственности на вновь создаваемое недвижимое имущество
+article_type:article
+source:civil_code_kz.txt
+content_length:682
+estimated_tokens:109

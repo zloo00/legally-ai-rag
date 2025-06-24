@@ -1,0 +1,6 @@
+article_number:284
+article_title:Исполнение взаимных обязанностей
+article_type:article
+source:civil_code_kz.txt
+content_length:451
+estimated_tokens:68

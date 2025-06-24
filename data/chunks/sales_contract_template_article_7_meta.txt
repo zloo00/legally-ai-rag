@@ -1,0 +1,6 @@
+article_number:7
+article_title:3. В случае если Стороны не пришли к соглашению, споры рассматриваются судом в
+article_type:article
+source:sales_contract_template.txt
+content_length:66
+estimated_tokens:7

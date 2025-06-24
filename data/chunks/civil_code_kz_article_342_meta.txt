@@ -1,0 +1,6 @@
+article_number:342
+article_title:Доказательства прав нового кредитора
+article_type:article
+source:civil_code_kz.txt
+content_length:311
+estimated_tokens:49

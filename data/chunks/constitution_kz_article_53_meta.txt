@@ -1,0 +1,6 @@
+article_number:53
+article_title:Парламент на совместном заседании Палат:
+article_type:article
+source:constitution_kz.txt
+content_length:1638
+estimated_tokens:252

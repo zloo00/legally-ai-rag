@@ -1,0 +1,6 @@
+article_number:226
+article_title:Правовой режим имущества при реорганизации крестьянского или фермерского хозяйства в хозяйственное товарищество или кооператив
+article_type:article
+source:civil_code_kz.txt
+content_length:864
+estimated_tokens:136

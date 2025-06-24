@@ -1,0 +1,6 @@
+article_number:135
+article_title:Вахтовый метод работы
+article_type:article
+source:labor_code_kz.txt
+content_length:4232
+estimated_tokens:695

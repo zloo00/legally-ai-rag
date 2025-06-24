@@ -1,0 +1,6 @@
+article_number:242
+article_title:Бесхозяйные вещи
+article_type:article
+source:civil_code_kz.txt
+content_length:279
+estimated_tokens:49

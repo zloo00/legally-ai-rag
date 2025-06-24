@@ -1,0 +1,6 @@
+article_number:3
+article_title:1. Единственным источником государственной власти является народ.
+article_type:article
+source:constitution_kz.txt
+content_length:1005
+estimated_tokens:159

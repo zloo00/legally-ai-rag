@@ -1,0 +1,6 @@
+article_number:94
+article_title:Случаи и порядок перенесения оплачиваемого ежегодного трудового отпуска
+article_type:article
+source:labor_code_kz.txt
+content_length:696
+estimated_tokens:117

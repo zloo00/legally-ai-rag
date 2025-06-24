@@ -1,0 +1,6 @@
+article_number:128-3
+article_title:Опцион
+article_type:article
+source:civil_code_kz.txt
+content_length:816
+estimated_tokens:133

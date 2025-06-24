@@ -1,0 +1,6 @@
+article_number:174
+article_title:Окончание срока, определяемого периодом времени
+article_type:article
+source:civil_code_kz.txt
+content_length:812
+estimated_tokens:140

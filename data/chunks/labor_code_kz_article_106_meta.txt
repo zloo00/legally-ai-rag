@@ -1,0 +1,6 @@
+article_number:106
+article_title:Почасовая оплата труда
+article_type:article
+source:labor_code_kz.txt
+content_length:870
+estimated_tokens:137

@@ -1,0 +1,6 @@
+article_number:234
+article_title:Правила об отдельных видах совместной деятельности
+article_type:article
+source:civil_code_kz.txt
+content_length:189
+estimated_tokens:28

@@ -1,0 +1,6 @@
+article_number:57
+article_title:Каждая из Палат Парламента самостоятельно, без участия другой Палаты:
+article_type:article
+source:constitution_kz.txt
+content_length:1288
+estimated_tokens:214

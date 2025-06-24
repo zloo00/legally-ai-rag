@@ -1,0 +1,6 @@
+article_number:371
+article_title:Прекращение обязательства совпадением должника и кредитора в одном лице
+article_type:article
+source:civil_code_kz.txt
+content_length:73
+estimated_tokens:11

@@ -1,0 +1,6 @@
+article_number:64
+article_title:Дисциплинарные взыскания
+article_type:article
+source:labor_code_kz.txt
+content_length:620
+estimated_tokens:98

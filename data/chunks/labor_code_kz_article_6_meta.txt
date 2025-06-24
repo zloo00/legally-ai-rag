@@ -1,0 +1,6 @@
+article_number:6
+article_title:Запрещение дискриминации в сфере труда
+article_type:article
+source:labor_code_kz.txt
+content_length:1085
+estimated_tokens:180

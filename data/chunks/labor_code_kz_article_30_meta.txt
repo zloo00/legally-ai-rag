@@ -1,0 +1,6 @@
+article_number:30
+article_title:Срок трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:3373
+estimated_tokens:533

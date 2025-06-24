@@ -1,0 +1,6 @@
+article_number:311
+article_title:Последующий залог (перезалог)
+article_type:article
+source:civil_code_kz.txt
+content_length:735
+estimated_tokens:122

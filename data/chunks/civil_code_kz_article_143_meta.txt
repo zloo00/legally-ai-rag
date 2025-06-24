@@ -1,0 +1,6 @@
+article_number:143
+article_title:Защита чести, достоинства и деловой репутации
+article_type:article
+source:civil_code_kz.txt
+content_length:2387
+estimated_tokens:386

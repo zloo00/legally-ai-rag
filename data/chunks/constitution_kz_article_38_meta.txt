@@ -1,0 +1,6 @@
+article_number:38
+article_title:Граждане Республики Казахстан обязаны сохранять природу и бережно относиться к природным богатствам.
+article_type:article
+source:constitution_kz.txt
+content_length:153
+estimated_tokens:24

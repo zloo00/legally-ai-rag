@@ -1,0 +1,6 @@
+article_number:38
+article_title:Наименование юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:1886
+estimated_tokens:271

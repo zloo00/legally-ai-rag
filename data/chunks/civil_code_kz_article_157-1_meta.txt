@@ -1,0 +1,6 @@
+article_number:157-1
+article_title:Общие положения о последствиях недействительности сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:2720
+estimated_tokens:453

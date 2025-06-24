@@ -1,0 +1,6 @@
+article_number:176
+article_title:Порядок совершения действий в последний день срока
+article_type:article
+source:civil_code_kz.txt
+content_length:509
+estimated_tokens:94

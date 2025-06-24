@@ -1,0 +1,6 @@
+article_number:90
+article_title:Исчисление продолжительности оплачиваемого ежегодного трудового отпуска
+article_type:article
+source:labor_code_kz.txt
+content_length:452
+estimated_tokens:65

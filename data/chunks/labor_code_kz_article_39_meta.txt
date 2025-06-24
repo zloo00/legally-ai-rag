@@ -1,0 +1,6 @@
+article_number:39
+article_title:Перевод работника в другую местность вместе с работодателем
+article_type:article
+source:labor_code_kz.txt
+content_length:593
+estimated_tokens:101

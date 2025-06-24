@@ -1,0 +1,6 @@
+article_number:353
+article_title:Ответственность за неправомерное пользование чужими деньгами
+article_type:article
+source:civil_code_kz.txt
+content_length:1204
+estimated_tokens:202

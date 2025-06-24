@@ -1,0 +1,6 @@
+article_number:84
+article_title:Сноска. Статья 84 исключена Законом РК от 21.05.2007 № 254-III (вводится в действие со дня его официального опубликования).
+article_type:article
+source:constitution_kz.txt
+content_length:63
+estimated_tokens:9

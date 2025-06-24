@@ -1,0 +1,6 @@
+article_number:144
+article_title:Регулирование труда лиц, состоящих на воинской службе, сотрудников специальных государственных, правоохранительных органов и государственной фельдъегерской службы
+article_type:article
+source:labor_code_kz.txt
+content_length:514
+estimated_tokens:74

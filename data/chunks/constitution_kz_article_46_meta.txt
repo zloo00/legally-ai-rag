@@ -1,0 +1,6 @@
+article_number:46
+article_title:1. Президент Республики Казахстан, его честь и достоинство неприкосновенны.
+article_type:article
+source:constitution_kz.txt
+content_length:266
+estimated_tokens:44

@@ -1,0 +1,6 @@
+article_number:181
+article_title:Права и обязанности работника в области безопасности и охраны труда
+article_type:article
+source:labor_code_kz.txt
+content_length:2885
+estimated_tokens:449

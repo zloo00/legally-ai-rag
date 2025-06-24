@@ -1,0 +1,6 @@
+article_number:201
+article_title:Внутренний контроль по безопасности и охране труда
+article_type:article
+source:labor_code_kz.txt
+content_length:630
+estimated_tokens:102

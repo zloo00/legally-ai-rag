@@ -1,0 +1,6 @@
+article_number:54
+article_title:Реабилитационные процедуры в отношении юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:393
+estimated_tokens:57

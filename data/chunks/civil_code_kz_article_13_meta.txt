@@ -1,0 +1,6 @@
+article_number:13
+article_title:Правоспособность граждан
+article_type:article
+source:civil_code_kz.txt
+content_length:222
+estimated_tokens:36

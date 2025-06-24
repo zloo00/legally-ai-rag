@@ -1,0 +1,6 @@
+article_number:136
+article_title:Облигация
+article_type:article
+source:civil_code_kz.txt
+content_length:538
+estimated_tokens:83

@@ -1,0 +1,6 @@
+article_number:6
+article_title:Стороны пришли к соглашению, что материальная ответственность
+article_type:article
+source:rental_contract_template.txt
+content_length:98
+estimated_tokens:15

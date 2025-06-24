@@ -1,0 +1,6 @@
+article_number:83
+article_title:Продолжительность ежедневного (междусменного)отдыха
+article_type:article
+source:labor_code_kz.txt
+content_length:171
+estimated_tokens:28

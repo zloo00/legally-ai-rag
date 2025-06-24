@@ -1,0 +1,6 @@
+article_number:10
+article_title:1. Гражданство Республики Казахстан приобретается и прекращается в соответствии с законом, является единым и равным независимо от оснований его приобретения.
+article_type:article
+source:constitution_kz.txt
+content_length:502
+estimated_tokens:83

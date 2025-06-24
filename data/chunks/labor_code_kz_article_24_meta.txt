@@ -1,0 +1,6 @@
+article_number:24
+article_title:Предмет трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:482
+estimated_tokens:68

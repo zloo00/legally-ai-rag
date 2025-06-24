@@ -1,0 +1,6 @@
+article_number:140
+article_title:исключена Законом РК от 11.07.1997 N 154.
+article_type:article
+source:civil_code_kz.txt
+content_length:40
+estimated_tokens:6

@@ -1,0 +1,6 @@
+article_number:20-1
+article_title:Объединения (ассоциации, союзы) работодателей и их полномочия
+article_type:article
+source:labor_code_kz.txt
+content_length:1395
+estimated_tokens:217

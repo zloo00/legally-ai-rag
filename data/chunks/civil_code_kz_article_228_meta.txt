@@ -1,0 +1,6 @@
+article_number:228
+article_title:Простое товарищество
+article_type:article
+source:civil_code_kz.txt
+content_length:775
+estimated_tokens:126

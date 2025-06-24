@@ -1,0 +1,6 @@
+article_number:2
+article_title:4. Продавец обязан передать Товар Покупателю по накладной, Акту приема-передачи
+article_type:article
+source:sales_contract_template.txt
+content_length:64
+estimated_tokens:13

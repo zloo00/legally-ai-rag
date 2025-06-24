@@ -1,0 +1,6 @@
+article_number:181
+article_title:Срок исковой давности при перемене лиц в обязательстве
+article_type:article
+source:civil_code_kz.txt
+content_length:97
+estimated_tokens:18

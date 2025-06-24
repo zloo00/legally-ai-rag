@@ -1,0 +1,6 @@
+article_number:82
+article_title:Внутрисменные и специальные перерывы
+article_type:article
+source:labor_code_kz.txt
+content_length:1623
+estimated_tokens:269

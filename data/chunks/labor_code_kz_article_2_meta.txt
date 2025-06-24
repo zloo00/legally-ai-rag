@@ -1,0 +1,6 @@
+article_number:2
+article_title:Трудовое законодательство Республики Казахстан
+article_type:article
+source:labor_code_kz.txt
+content_length:834
+estimated_tokens:122

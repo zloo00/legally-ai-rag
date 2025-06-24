@@ -1,0 +1,6 @@
+article_number:345
+article_title:Условия уступки требования
+article_type:article
+source:civil_code_kz.txt
+content_length:267
+estimated_tokens:42

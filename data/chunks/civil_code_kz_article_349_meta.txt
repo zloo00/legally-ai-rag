@@ -1,0 +1,6 @@
+article_number:349
+article_title:Понятие нарушения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:460
+estimated_tokens:66

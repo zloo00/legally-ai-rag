@@ -1,0 +1,6 @@
+article_number:168
+article_title:Последствия достижения соглашения сторон по коллективному трудовому спору
+article_type:article
+source:labor_code_kz.txt
+content_length:488
+estimated_tokens:78

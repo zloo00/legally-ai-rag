@@ -1,0 +1,6 @@
+article_number:65
+article_title:1. Правительство образуется Президентом Республики Казахстан в порядке, предусмотренном Конституцией.
+article_type:article
+source:constitution_kz.txt
+content_length:238
+estimated_tokens:35

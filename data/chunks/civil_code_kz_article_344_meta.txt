@@ -1,0 +1,6 @@
+article_number:344
+article_title:Переход прав кредитора к другому лицу на основании законодательных актов
+article_type:article
+source:civil_code_kz.txt
+content_length:714
+estimated_tokens:122

@@ -1,0 +1,6 @@
+article_number:338-4
+article_title:Последствия неисполнения, прекращения или исполнения обязательства, обеспеченного гарантийным взносом
+article_type:article
+source:civil_code_kz.txt
+content_length:1084
+estimated_tokens:169

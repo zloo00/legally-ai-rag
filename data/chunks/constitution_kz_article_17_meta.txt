@@ -1,0 +1,6 @@
+article_number:17
+article_title:Примечание. См. нормативное постановление Конституционного Суда РК от 04.05.2024 № 43-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:349
+estimated_tokens:52

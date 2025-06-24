@@ -1,0 +1,6 @@
+article_number:187
+article_title:Обязанности работодателя при расследовании несчастных случаев, связанных с трудовой деятельностью
+article_type:article
+source:labor_code_kz.txt
+content_length:4055
+estimated_tokens:612

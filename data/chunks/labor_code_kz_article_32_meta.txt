@@ -1,0 +1,6 @@
+article_number:32
+article_title:Документы, необходимые для заключения трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:3224
+estimated_tokens:481

@@ -1,0 +1,6 @@
+article_number:21
+article_title:Банкротство индивидуального предпринимателя
+article_type:article
+source:civil_code_kz.txt
+content_length:54
+estimated_tokens:6

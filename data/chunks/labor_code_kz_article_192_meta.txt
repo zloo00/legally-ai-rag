@@ -1,0 +1,6 @@
+article_number:192
+article_title:Принципы деятельности и основные задачи государственной инспекции труда
+article_type:article
+source:labor_code_kz.txt
+content_length:592
+estimated_tokens:87

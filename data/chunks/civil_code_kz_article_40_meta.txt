@@ -1,0 +1,6 @@
+article_number:40
+article_title:Учредители юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:798
+estimated_tokens:124

@@ -1,0 +1,6 @@
+article_number:366
+article_title:Просрочка кредитора
+article_type:article
+source:civil_code_kz.txt
+content_length:1141
+estimated_tokens:187

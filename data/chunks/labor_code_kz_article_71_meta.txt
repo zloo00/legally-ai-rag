@@ -1,0 +1,6 @@
+article_number:71
+article_title:Режим рабочего времени
+article_type:article
+source:labor_code_kz.txt
+content_length:1585
+estimated_tokens:237

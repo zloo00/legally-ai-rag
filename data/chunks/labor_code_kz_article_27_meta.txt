@@ -1,0 +1,6 @@
+article_number:27
+article_title:Отличие трудового договора от иных видов договоров
+article_type:article
+source:labor_code_kz.txt
+content_length:360
+estimated_tokens:57

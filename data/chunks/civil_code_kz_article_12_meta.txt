@@ -1,0 +1,6 @@
+article_number:12
+article_title:Понятие физического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:231
+estimated_tokens:37

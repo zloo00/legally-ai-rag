@@ -1,0 +1,6 @@
+article_number:44
+article_title:Президент Республики Казахстан:
+article_type:article
+source:constitution_kz.txt
+content_length:4803
+estimated_tokens:725

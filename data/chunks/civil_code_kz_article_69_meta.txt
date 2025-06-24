@@ -1,0 +1,6 @@
+article_number:69
+article_title:Обращение взыскания на долю участника в полном товариществе
+article_type:article
+source:civil_code_kz.txt
+content_length:726
+estimated_tokens:122

@@ -1,0 +1,6 @@
+article_number:25
+article_title:Примечание. См. нормативное постановление Конституционного Суда РК от 19.04.2024 № 41-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:597
+estimated_tokens:101

@@ -1,0 +1,6 @@
+article_number:153
+article_title:Содержание соглашений социального партнерства
+article_type:article
+source:labor_code_kz.txt
+content_length:3499
+estimated_tokens:568

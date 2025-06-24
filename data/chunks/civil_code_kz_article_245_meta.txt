@@ -1,0 +1,6 @@
+article_number:245
+article_title:Находка
+article_type:article
+source:civil_code_kz.txt
+content_length:2957
+estimated_tokens:520

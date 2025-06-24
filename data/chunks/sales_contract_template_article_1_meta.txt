@@ -1,0 +1,6 @@
+article_number:1
+article_title:2. Перечень Товара устанавливается в заявке Покупателя, счете и счете-фактуре,
+article_type:article
+source:sales_contract_template.txt
+content_length:77
+estimated_tokens:13

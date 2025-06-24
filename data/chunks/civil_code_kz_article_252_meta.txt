@@ -1,0 +1,6 @@
+article_number:252
+article_title:Прекращение права собственности лица, которому в силу законодательных актов имущество не может принадлежать
+article_type:article
+source:civil_code_kz.txt
+content_length:913
+estimated_tokens:152

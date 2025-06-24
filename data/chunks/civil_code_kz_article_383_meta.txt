@@ -1,0 +1,6 @@
+article_number:383
+article_title:Договор и законодательство
+article_type:article
+source:civil_code_kz.txt
+content_length:507
+estimated_tokens:74

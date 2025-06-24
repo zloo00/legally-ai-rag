@@ -1,0 +1,6 @@
+article_number:357
+article_title:Субсидиарная ответственность
+article_type:article
+source:civil_code_kz.txt
+content_length:818
+estimated_tokens:128

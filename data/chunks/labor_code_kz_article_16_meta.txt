@@ -1,0 +1,6 @@
+article_number:16
+article_title:Компетенция уполномоченного государственного органа по труду в области регулирования трудовых отношений
+article_type:article
+source:labor_code_kz.txt
+content_length:10088
+estimated_tokens:1497

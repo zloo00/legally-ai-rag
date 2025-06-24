@@ -1,0 +1,6 @@
+article_number:231
+article_title:Общие расходы и убытки участников договора
+article_type:article
+source:civil_code_kz.txt
+content_length:423
+estimated_tokens:79

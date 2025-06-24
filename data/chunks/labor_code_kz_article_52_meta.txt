@@ -1,0 +1,6 @@
+article_number:52
+article_title:Основания расторжения трудового договора по инициативе работодателя
+article_type:article
+source:labor_code_kz.txt
+content_length:6363
+estimated_tokens:954

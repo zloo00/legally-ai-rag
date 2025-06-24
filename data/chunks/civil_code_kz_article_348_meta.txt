@@ -1,0 +1,6 @@
+article_number:348
+article_title:дополнена пунктом 4 - Закон РК от 2 марта 1998 г. N 211.
+article_type:article
+source:civil_code_kz.txt
+content_length:52
+estimated_tokens:7

@@ -1,0 +1,6 @@
+article_number:359
+article_title:Основания ответственности за нарушение обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:1061
+estimated_tokens:163

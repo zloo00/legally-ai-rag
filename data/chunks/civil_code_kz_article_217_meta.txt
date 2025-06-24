@@ -1,0 +1,6 @@
+article_number:217
+article_title:Момент перехода доли в праве долевой собственности к приобретателю по договору
+article_type:article
+source:civil_code_kz.txt
+content_length:358
+estimated_tokens:58

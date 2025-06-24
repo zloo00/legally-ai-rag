@@ -1,0 +1,6 @@
+article_number:268
+article_title:Обязательство
+article_type:article
+source:civil_code_kz.txt
+content_length:489
+estimated_tokens:79

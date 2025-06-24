@@ -1,0 +1,6 @@
+article_number:59
+article_title:Порядок расторжения трудового договора в связи с переходом работника на выборную работу (должность) или назначением его на должность
+article_type:article
+source:labor_code_kz.txt
+content_length:378
+estimated_tokens:62

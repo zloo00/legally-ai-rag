@@ -1,0 +1,6 @@
+article_number:212
+article_title:Распоряжение имуществом, находящимся в долевой собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:337
+estimated_tokens:53

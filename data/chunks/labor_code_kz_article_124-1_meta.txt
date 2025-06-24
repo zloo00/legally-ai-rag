@@ -1,0 +1,6 @@
+article_number:124-1
+article_title:Гарантия для работников, проходящих воинскую службу в резерве
+article_type:article
+source:labor_code_kz.txt
+content_length:394
+estimated_tokens:67

@@ -1,0 +1,6 @@
+article_number:96
+article_title:Реализация права на оплачиваемый ежегодный трудовой отпуск и выплата компенсации при прекращении трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:873
+estimated_tokens:135

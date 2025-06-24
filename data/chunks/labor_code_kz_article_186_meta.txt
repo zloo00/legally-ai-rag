@@ -1,0 +1,6 @@
+article_number:186
+article_title:Общие положения расследования и учет несчастных случаев, связанных с трудовой деятельностью
+article_type:article
+source:labor_code_kz.txt
+content_length:4385
+estimated_tokens:679

@@ -1,0 +1,6 @@
+article_number:157
+article_title:Содержание и структура коллективного договора
+article_type:article
+source:labor_code_kz.txt
+content_length:4101
+estimated_tokens:668

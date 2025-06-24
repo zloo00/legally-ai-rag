@@ -1,0 +1,6 @@
+article_number:58
+article_title:Основные положения о хозяйственном товариществе
+article_type:article
+source:civil_code_kz.txt
+content_length:1992
+estimated_tokens:302

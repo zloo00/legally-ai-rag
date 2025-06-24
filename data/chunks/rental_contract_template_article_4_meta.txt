@@ -1,0 +1,6 @@
+article_number:4
+article_title:4.Если вышеуказанные обстоятельства действуют более трех месяцев, то
+article_type:article
+source:rental_contract_template.txt
+content_length:250
+estimated_tokens:48

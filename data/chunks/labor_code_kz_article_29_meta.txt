@@ -1,0 +1,6 @@
+article_number:29
+article_title:Условие о неконкуренции
+article_type:article
+source:labor_code_kz.txt
+content_length:637
+estimated_tokens:97

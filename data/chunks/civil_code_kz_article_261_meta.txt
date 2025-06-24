@@ -1,0 +1,6 @@
+article_number:261
+article_title:Истребование имущества у добросовестного приобретателя
+article_type:article
+source:civil_code_kz.txt
+content_length:1154
+estimated_tokens:202

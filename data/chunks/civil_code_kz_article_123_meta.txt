@@ -1,0 +1,6 @@
+article_number:123
+article_title:Плоды, продукция и доходы
+article_type:article
+source:civil_code_kz.txt
+content_length:250
+estimated_tokens:36

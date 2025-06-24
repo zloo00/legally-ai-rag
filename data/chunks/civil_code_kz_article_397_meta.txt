@@ -1,0 +1,6 @@
+article_number:397
+article_title:Порядок заключения договора
+article_type:article
+source:civil_code_kz.txt
+content_length:1139
+estimated_tokens:204

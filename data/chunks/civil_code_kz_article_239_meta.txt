@@ -1,0 +1,6 @@
+article_number:239
+article_title:Передача вещей
+article_type:article
+source:civil_code_kz.txt
+content_length:521
+estimated_tokens:87

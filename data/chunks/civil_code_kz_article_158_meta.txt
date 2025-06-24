@@ -1,0 +1,6 @@
+article_number:158
+article_title:Недействительность сделки, содержание которой не соответствует требованиям законодательства Республики Казахстан
+article_type:article
+source:civil_code_kz.txt
+content_length:1106
+estimated_tokens:171

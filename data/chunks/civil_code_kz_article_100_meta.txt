@@ -1,0 +1,6 @@
+article_number:100
+article_title:Прекращение членства в производственном кооперативе
+article_type:article
+source:civil_code_kz.txt
+content_length:2390
+estimated_tokens:390

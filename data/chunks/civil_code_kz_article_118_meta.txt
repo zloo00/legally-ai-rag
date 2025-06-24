@@ -1,0 +1,6 @@
+article_number:118
+article_title:Государственная регистрация прав на недвижимое имущество
+article_type:article
+source:civil_code_kz.txt
+content_length:2622
+estimated_tokens:377

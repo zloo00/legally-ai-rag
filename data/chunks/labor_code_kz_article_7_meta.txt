@@ -1,0 +1,6 @@
+article_number:7
+article_title:Запрещение принудительного труда
+article_type:article
+source:labor_code_kz.txt
+content_length:660
+estimated_tokens:110

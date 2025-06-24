@@ -1,0 +1,6 @@
+article_number:126
+article_title:Служебная и коммерческая тайна
+article_type:article
+source:civil_code_kz.txt
+content_length:594
+estimated_tokens:91

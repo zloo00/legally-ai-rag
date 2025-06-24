@@ -1,0 +1,6 @@
+article_number:194
+article_title:Обязанности государственных инспекторов труда
+article_type:article
+source:labor_code_kz.txt
+content_length:1389
+estimated_tokens:201

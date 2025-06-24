@@ -1,0 +1,6 @@
+article_number:108
+article_title:Оплата сверхурочной работы
+article_type:article
+source:labor_code_kz.txt
+content_length:580
+estimated_tokens:104

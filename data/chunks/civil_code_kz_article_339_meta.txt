@@ -1,0 +1,6 @@
+article_number:339
+article_title:Основания и порядок перехода прав кредитора к другому лицу
+article_type:article
+source:civil_code_kz.txt
+content_length:855
+estimated_tokens:144

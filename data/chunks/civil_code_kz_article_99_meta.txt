@@ -1,0 +1,6 @@
+article_number:99
+article_title:Управление производственным кооперативом
+article_type:article
+source:civil_code_kz.txt
+content_length:2161
+estimated_tokens:319

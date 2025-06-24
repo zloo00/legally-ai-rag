@@ -1,0 +1,6 @@
+article_number:195
+article_title:Акты государственного инспектора труда
+article_type:article
+source:labor_code_kz.txt
+content_length:1912
+estimated_tokens:283

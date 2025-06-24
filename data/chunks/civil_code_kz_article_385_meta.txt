@@ -1,0 +1,6 @@
+article_number:385
+article_title:Цена
+article_type:article
+source:civil_code_kz.txt
+content_length:761
+estimated_tokens:123

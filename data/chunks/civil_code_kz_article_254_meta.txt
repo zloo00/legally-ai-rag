@@ -1,0 +1,6 @@
+article_number:254
+article_title:Конфискация
+article_type:article
+source:civil_code_kz.txt
+content_length:247
+estimated_tokens:36

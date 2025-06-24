@@ -1,0 +1,6 @@
+article_number:97
+article_title:Устав производственного кооператива
+article_type:article
+source:civil_code_kz.txt
+content_length:702
+estimated_tokens:119

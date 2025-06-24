@@ -1,0 +1,6 @@
+article_number:265
+article_title:Защита вещных прав лица, не являющегося собственником
+article_type:article
+source:civil_code_kz.txt
+content_length:384
+estimated_tokens:58

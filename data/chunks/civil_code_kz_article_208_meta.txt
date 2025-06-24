@@ -1,0 +1,6 @@
+article_number:208
+article_title:Переход права собственности на учреждение
+article_type:article
+source:civil_code_kz.txt
+content_length:178
+estimated_tokens:29

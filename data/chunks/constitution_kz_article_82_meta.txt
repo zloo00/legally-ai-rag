@@ -1,0 +1,6 @@
+article_number:82
+article_title:1. Председатель и судьи Верховного Суда Республики Казахстан избираются Сенатом по представлению Президента Республики, основанному на рекомендации Высшего Судебного Совета.
+article_type:article
+source:constitution_kz.txt
+content_length:548
+estimated_tokens:84

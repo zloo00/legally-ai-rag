@@ -1,0 +1,6 @@
+article_number:380
+article_title:Свобода договора
+article_type:article
+source:civil_code_kz.txt
+content_length:371
+estimated_tokens:55

@@ -1,0 +1,6 @@
+article_number:373
+article_title:Прощение долга
+article_type:article
+source:civil_code_kz.txt
+content_length:162
+estimated_tokens:27

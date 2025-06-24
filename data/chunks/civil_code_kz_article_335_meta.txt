@@ -1,0 +1,6 @@
+article_number:335
+article_title:Извещение гаранта и поручителя об исполнении обязательства должником
+article_type:article
+source:civil_code_kz.txt
+content_length:414
+estimated_tokens:63

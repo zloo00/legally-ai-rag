@@ -1,0 +1,6 @@
+article_number:74
+article_title:Работа в режиме гибкого рабочего времени
+article_type:article
+source:labor_code_kz.txt
+content_length:1166
+estimated_tokens:191

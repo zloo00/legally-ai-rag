@@ -1,0 +1,6 @@
+article_number:300
+article_title:Основания возникновения залога
+article_type:article
+source:civil_code_kz.txt
+content_length:487
+estimated_tokens:79

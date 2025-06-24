@@ -1,0 +1,6 @@
+article_number:273
+article_title:Недопустимость одностороннего отказа от исполнения обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:174
+estimated_tokens:24

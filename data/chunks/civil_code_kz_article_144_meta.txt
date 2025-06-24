@@ -1,0 +1,6 @@
+article_number:144
+article_title:Право на охрану тайны личной жизни
+article_type:article
+source:civil_code_kz.txt
+content_length:680
+estimated_tokens:118

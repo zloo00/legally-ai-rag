@@ -1,0 +1,6 @@
+article_number:37
+article_title:Органы юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:348
+estimated_tokens:55

@@ -1,0 +1,6 @@
+article_number:246
+article_title:Безнадзорные животные
+article_type:article
+source:civil_code_kz.txt
+content_length:2686
+estimated_tokens:478

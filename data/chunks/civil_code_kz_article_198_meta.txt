@@ -1,0 +1,6 @@
+article_number:198
+article_title:Приобретение и прекращение права хозяйственного ведения
+article_type:article
+source:civil_code_kz.txt
+content_length:878
+estimated_tokens:136

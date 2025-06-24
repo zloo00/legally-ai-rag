@@ -1,0 +1,6 @@
+article_number:338-2
+article_title:Удовлетворение требований за счет удерживаемого имущества
+article_type:article
+source:civil_code_kz.txt
+content_length:387
+estimated_tokens:63

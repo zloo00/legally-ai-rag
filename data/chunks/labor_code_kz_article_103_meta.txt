@@ -1,0 +1,6 @@
+article_number:103
+article_title:Размер заработной платы
+article_type:article
+source:labor_code_kz.txt
+content_length:1484
+estimated_tokens:228

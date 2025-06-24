@@ -1,0 +1,6 @@
+article_number:78
+article_title:Уставный капитал товарищества с ограниченной ответственностью
+article_type:article
+source:civil_code_kz.txt
+content_length:885
+estimated_tokens:113

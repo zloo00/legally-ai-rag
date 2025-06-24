@@ -1,0 +1,6 @@
+article_number:351
+article_title:Убытки и неустойка
+article_type:article
+source:civil_code_kz.txt
+content_length:839
+estimated_tokens:132

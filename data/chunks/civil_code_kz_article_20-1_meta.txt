@@ -1,0 +1,6 @@
+article_number:20-1
+article_title:Восстановление платежеспособности и банкротство гражданина Республики Казахстан
+article_type:article
+source:civil_code_kz.txt
+content_length:734
+estimated_tokens:107

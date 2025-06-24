@@ -1,0 +1,6 @@
+article_number:19
+article_title:Предпринимательская деятельность граждан
+article_type:article
+source:civil_code_kz.txt
+content_length:1297
+estimated_tokens:176

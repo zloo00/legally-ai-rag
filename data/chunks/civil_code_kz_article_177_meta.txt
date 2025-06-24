@@ -1,0 +1,6 @@
+article_number:177
+article_title:Понятие исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:294
+estimated_tokens:53

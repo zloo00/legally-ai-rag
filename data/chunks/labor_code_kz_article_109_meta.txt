@@ -1,0 +1,6 @@
+article_number:109
+article_title:Оплата работы в праздничные и выходные дни
+article_type:article
+source:labor_code_kz.txt
+content_length:241
+estimated_tokens:44

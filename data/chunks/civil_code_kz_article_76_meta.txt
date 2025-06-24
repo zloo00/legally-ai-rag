@@ -1,0 +1,6 @@
+article_number:76
+article_title:Прекращение коммандитного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:800
+estimated_tokens:113

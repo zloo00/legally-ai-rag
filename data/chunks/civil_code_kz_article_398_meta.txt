@@ -1,0 +1,6 @@
+article_number:398
+article_title:Место заключения договора
+article_type:article
+source:civil_code_kz.txt
+content_length:170
+estimated_tokens:28

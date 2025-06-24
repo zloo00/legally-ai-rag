@@ -1,0 +1,6 @@
+article_number:320
+article_title:Реализация заложенного имущества в принудительном внесудебном порядке
+article_type:article
+source:civil_code_kz.txt
+content_length:937
+estimated_tokens:154

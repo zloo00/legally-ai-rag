@@ -1,0 +1,6 @@
+article_number:211
+article_title:Права участника долевой собственности, связанные с ее улучшением
+article_type:article
+source:civil_code_kz.txt
+content_length:418
+estimated_tokens:67

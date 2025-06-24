@@ -1,0 +1,6 @@
+article_number:20
+article_title:Представители работников и их полномочия
+article_type:article
+source:labor_code_kz.txt
+content_length:2074
+estimated_tokens:309

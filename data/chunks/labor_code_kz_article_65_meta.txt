@@ -1,0 +1,6 @@
+article_number:65
+article_title:Порядок применения дисциплинарных взысканий
+article_type:article
+source:labor_code_kz.txt
+content_length:3048
+estimated_tokens:473

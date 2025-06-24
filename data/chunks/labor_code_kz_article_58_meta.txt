@@ -1,0 +1,6 @@
+article_number:58
+article_title:Основания прекращения трудового договора при отказе работника от продолжения трудовых отношений
+article_type:article
+source:labor_code_kz.txt
+content_length:974
+estimated_tokens:166

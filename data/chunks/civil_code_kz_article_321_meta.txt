@@ -1,0 +1,6 @@
+article_number:321
+article_title:Досрочное исполнение обязательства, обеспеченного залогом, и обращение взыскания на заложенное имущество
+article_type:article
+source:civil_code_kz.txt
+content_length:299
+estimated_tokens:53

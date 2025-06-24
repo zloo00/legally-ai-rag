@@ -1,0 +1,6 @@
+article_number:83
+article_title:с изменениями, внесенными Законом РК от 02.03.1998 № 211.
+article_type:article
+source:civil_code_kz.txt
+content_length:49
+estimated_tokens:6

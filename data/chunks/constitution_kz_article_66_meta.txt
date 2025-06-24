@@ -1,0 +1,6 @@
+article_number:66
+article_title:Правительство Республики Казахстан:
+article_type:article
+source:constitution_kz.txt
+content_length:1551
+estimated_tokens:237

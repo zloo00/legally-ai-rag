@@ -1,0 +1,6 @@
+article_number:210
+article_title:Определение долей в праве долевой собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:384
+estimated_tokens:68

@@ -1,0 +1,6 @@
+article_number:25
+article_title:Гарантии равенства прав и возможностей при заключении трудового договора
+article_type:article
+source:labor_code_kz.txt
+content_length:295
+estimated_tokens:45

@@ -1,0 +1,6 @@
+article_number:180
+article_title:Течение срока исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:827
+estimated_tokens:135

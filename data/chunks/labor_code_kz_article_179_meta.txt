@@ -1,0 +1,6 @@
+article_number:179
+article_title:Государственное регулирование в области безопасности и охраны труда
+article_type:article
+source:labor_code_kz.txt
+content_length:1692
+estimated_tokens:269

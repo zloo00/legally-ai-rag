@@ -1,0 +1,6 @@
+article_number:20
+article_title:Имущественная ответственность гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:353
+estimated_tokens:61

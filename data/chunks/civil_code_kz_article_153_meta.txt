@@ -1,0 +1,6 @@
+article_number:153
+article_title:Последствия несоблюдения письменной формы сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:574
+estimated_tokens:87

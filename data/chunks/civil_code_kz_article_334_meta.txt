@@ -1,0 +1,6 @@
+article_number:334
+article_title:Права гаранта и поручителя, исполнивших обязательство
+article_type:article
+source:civil_code_kz.txt
+content_length:881
+estimated_tokens:150

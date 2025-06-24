@@ -1,0 +1,6 @@
+article_number:346
+article_title:Форма уступки требования
+article_type:article
+source:civil_code_kz.txt
+content_length:459
+estimated_tokens:75

@@ -1,0 +1,6 @@
+article_number:171
+article_title:Право на забастовку
+article_type:article
+source:labor_code_kz.txt
+content_length:2228
+estimated_tokens:335

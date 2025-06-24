@@ -1,0 +1,6 @@
+article_number:306
+article_title:Страхование заложенного имущества
+article_type:article
+source:civil_code_kz.txt
+content_length:706
+estimated_tokens:117

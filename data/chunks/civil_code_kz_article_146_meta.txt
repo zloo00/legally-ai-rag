@@ -1,0 +1,6 @@
+article_number:146
+article_title:Право на неприкосновенность жилища
+article_type:article
+source:civil_code_kz.txt
+content_length:197
+estimated_tokens:33

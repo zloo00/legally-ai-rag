@@ -1,0 +1,6 @@
+article_number:224
+article_title:Собственность крестьянского или фермерского хозяйства
+article_type:article
+source:civil_code_kz.txt
+content_length:1279
+estimated_tokens:202

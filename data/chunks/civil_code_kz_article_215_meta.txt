@@ -1,0 +1,6 @@
+article_number:215
+article_title:Расходы по содержанию имущества, находящегося в долевой собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:196
+estimated_tokens:37

@@ -1,0 +1,6 @@
+article_number:162
+article_title:Понятия, используемые в настоящей главе
+article_type:article
+source:labor_code_kz.txt
+content_length:909
+estimated_tokens:135

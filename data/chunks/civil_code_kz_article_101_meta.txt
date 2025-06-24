@@ -1,0 +1,6 @@
+article_number:101
+article_title:Реорганизация и ликвидация производственного кооператива
+article_type:article
+source:civil_code_kz.txt
+content_length:423
+estimated_tokens:61

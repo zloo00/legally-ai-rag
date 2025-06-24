@@ -1,0 +1,6 @@
+article_number:172
+article_title:Определение срока
+article_type:article
+source:civil_code_kz.txt
+content_length:289
+estimated_tokens:45

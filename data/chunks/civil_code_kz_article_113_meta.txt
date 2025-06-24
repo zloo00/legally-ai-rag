@@ -1,0 +1,6 @@
+article_number:113
+article_title:Обращение взыскания по обязательствам Республики Казахстан и административно-территориальной единицы
+article_type:article
+source:civil_code_kz.txt
+content_length:553
+estimated_tokens:80

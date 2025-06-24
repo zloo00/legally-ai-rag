@@ -1,0 +1,6 @@
+article_number:165
+article_title:Примирительная комиссия
+article_type:article
+source:labor_code_kz.txt
+content_length:1839
+estimated_tokens:275

@@ -1,0 +1,6 @@
+article_number:51
+article_title:Удовлетворение требований кредиторов
+article_type:article
+source:civil_code_kz.txt
+content_length:3707
+estimated_tokens:581

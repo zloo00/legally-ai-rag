@@ -1,0 +1,6 @@
+article_number:32
+article_title:Последствия явки лица, объявленного умершим
+article_type:article
+source:civil_code_kz.txt
+content_length:1456
+estimated_tokens:263

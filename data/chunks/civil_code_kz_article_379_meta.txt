@@ -1,0 +1,6 @@
+article_number:379
+article_title:Правоотношения, возникающие из договора
+article_type:article
+source:civil_code_kz.txt
+content_length:636
+estimated_tokens:100

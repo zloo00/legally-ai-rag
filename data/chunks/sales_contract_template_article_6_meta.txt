@@ -1,0 +1,6 @@
+article_number:6
+article_title:1. Стороны признают, что условия Договора в целом и вся информация, обозначенная
+article_type:article
+source:sales_contract_template.txt
+content_length:367
+estimated_tokens:50

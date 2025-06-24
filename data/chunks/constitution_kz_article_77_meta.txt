@@ -1,0 +1,6 @@
+article_number:77
+article_title:Примечание. См. нормативное постановление Конституционного Суда РК от 06.12.2023 № 36-НП.
+article_type:article
+source:constitution_kz.txt
+content_length:2243
+estimated_tokens:374

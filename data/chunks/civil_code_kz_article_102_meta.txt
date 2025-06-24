@@ -1,0 +1,6 @@
+article_number:102
+article_title:Основные положения о государственном предприятии
+article_type:article
+source:civil_code_kz.txt
+content_length:2327
+estimated_tokens:366

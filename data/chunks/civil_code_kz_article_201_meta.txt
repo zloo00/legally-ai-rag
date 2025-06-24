@@ -1,0 +1,6 @@
+article_number:201
+article_title:Распространение положений о праве собственности на отношения с участием государственных предприятий
+article_type:article
+source:civil_code_kz.txt
+content_length:248
+estimated_tokens:39

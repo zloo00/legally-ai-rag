@@ -1,0 +1,6 @@
+article_number:336
+article_title:Прекращение гарантии и поручительства
+article_type:article
+source:civil_code_kz.txt
+content_length:1467
+estimated_tokens:243

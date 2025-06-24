@@ -1,0 +1,6 @@
+article_number:168
+article_title:Срок доверенности
+article_type:article
+source:civil_code_kz.txt
+content_length:306
+estimated_tokens:67

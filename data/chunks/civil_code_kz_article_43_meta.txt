@@ -1,0 +1,6 @@
+article_number:43
+article_title:Филиалы, представительства и иные обособленные структурные подразделения юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:1885
+estimated_tokens:274

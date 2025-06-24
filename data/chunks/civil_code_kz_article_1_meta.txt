@@ -1,0 +1,6 @@
+article_number:1
+article_title:Отношения, регулируемые гражданским законодательством
+article_type:article
+source:civil_code_kz.txt
+content_length:1267
+estimated_tokens:180

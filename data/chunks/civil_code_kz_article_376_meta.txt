@@ -1,0 +1,6 @@
+article_number:376
+article_title:Прекращение обязательства смертью гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:364
+estimated_tokens:57

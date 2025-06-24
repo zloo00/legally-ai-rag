@@ -1,0 +1,6 @@
+article_number:139
+article_title:Гражданская служба
+article_type:article
+source:labor_code_kz.txt
+content_length:3512
+estimated_tokens:517

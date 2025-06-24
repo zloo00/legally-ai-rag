@@ -1,0 +1,6 @@
+article_number:193
+article_title:Собственность на землю и другие природные ресурсы
+article_type:article
+source:civil_code_kz.txt
+content_length:444
+estimated_tokens:70

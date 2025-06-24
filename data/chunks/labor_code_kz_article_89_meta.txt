@@ -1,0 +1,6 @@
+article_number:89
+article_title:Дополнительные оплачиваемые ежегодные трудовые отпуска
+article_type:article
+source:labor_code_kz.txt
+content_length:1674
+estimated_tokens:252

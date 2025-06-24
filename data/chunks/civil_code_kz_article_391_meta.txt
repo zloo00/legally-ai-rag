@@ -1,0 +1,6 @@
+article_number:391
+article_title:Договор в пользу третьего лица
+article_type:article
+source:civil_code_kz.txt
+content_length:1113
+estimated_tokens:200

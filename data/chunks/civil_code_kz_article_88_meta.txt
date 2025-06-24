@@ -1,0 +1,6 @@
+article_number:88
+article_title:Уставный капитал акционерного общества
+article_type:article
+source:civil_code_kz.txt
+content_length:181
+estimated_tokens:26

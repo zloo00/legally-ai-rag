@@ -1,0 +1,6 @@
+article_number:67
+article_title:Рабочее время и его виды
+article_type:article
+source:labor_code_kz.txt
+content_length:1043
+estimated_tokens:158

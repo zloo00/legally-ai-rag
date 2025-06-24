@@ -1,0 +1,6 @@
+article_number:213
+article_title:Владение и пользование имуществом, находящимся в долевой собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:523
+estimated_tokens:89

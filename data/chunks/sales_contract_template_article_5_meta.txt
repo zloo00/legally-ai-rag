@@ -1,0 +1,6 @@
+article_number:5
+article_title:4. Сторона, для которой станет невозможным исполнение своих обязательств по
+article_type:article
+source:sales_contract_template.txt
+content_length:610
+estimated_tokens:100

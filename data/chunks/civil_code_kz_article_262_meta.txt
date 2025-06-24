@@ -1,0 +1,6 @@
+article_number:262
+article_title:Ограничение истребования денег и ценных бумаг
+article_type:article
+source:civil_code_kz.txt
+content_length:105
+estimated_tokens:18

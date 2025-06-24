@@ -1,0 +1,6 @@
+article_number:370
+article_title:Прекращение обязательства зачетом
+article_type:article
+source:civil_code_kz.txt
+content_length:1206
+estimated_tokens:201

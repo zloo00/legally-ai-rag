@@ -1,0 +1,6 @@
+article_number:131
+article_title:Компенсационные выплаты в связи с потерей работы
+article_type:article
+source:labor_code_kz.txt
+content_length:1045
+estimated_tokens:169

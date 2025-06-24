@@ -1,0 +1,6 @@
+article_number:12
+article_title:Порядок учета мнения представителей работников при издании актов работодателя
+article_type:article
+source:labor_code_kz.txt
+content_length:1905
+estimated_tokens:289

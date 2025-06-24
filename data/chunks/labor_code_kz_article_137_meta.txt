@@ -1,0 +1,6 @@
+article_number:137
+article_title:Надомные работники
+article_type:article
+source:labor_code_kz.txt
+content_length:995
+estimated_tokens:161

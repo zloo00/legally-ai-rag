@@ -1,0 +1,6 @@
+article_number:54
+article_title:Ограничение возможности расторжения трудового договора по инициативе работодателя
+article_type:article
+source:labor_code_kz.txt
+content_length:759
+estimated_tokens:126

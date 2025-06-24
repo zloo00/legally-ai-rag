@@ -1,0 +1,6 @@
+article_number:171
+article_title:Последствия прекращения доверенности
+article_type:article
+source:civil_code_kz.txt
+content_length:27
+estimated_tokens:6

@@ -1,0 +1,6 @@
+article_number:223
+article_title:Общая собственность супругов
+article_type:article
+source:civil_code_kz.txt
+content_length:1438
+estimated_tokens:256

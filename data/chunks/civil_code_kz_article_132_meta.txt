@@ -1,0 +1,6 @@
+article_number:132
+article_title:Передача прав по ценной бумаге
+article_type:article
+source:civil_code_kz.txt
+content_length:1506
+estimated_tokens:244

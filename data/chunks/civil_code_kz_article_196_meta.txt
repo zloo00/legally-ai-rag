@@ -1,0 +1,6 @@
+article_number:196
+article_title:Право хозяйственного ведения государственного предприятия
+article_type:article
+source:civil_code_kz.txt
+content_length:497
+estimated_tokens:67

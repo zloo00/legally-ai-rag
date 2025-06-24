@@ -1,0 +1,6 @@
+article_number:218
+article_title:Раздел имущества, находящегося в долевой собственности, и выдел из него доли
+article_type:article
+source:civil_code_kz.txt
+content_length:1819
+estimated_tokens:312

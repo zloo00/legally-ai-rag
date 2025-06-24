@@ -1,0 +1,6 @@
+article_number:126-1
+article_title:Гарантии для женщин со сроком беременности до двенадцати недель
+article_type:article
+source:labor_code_kz.txt
+content_length:502
+estimated_tokens:85

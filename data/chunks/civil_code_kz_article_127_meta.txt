@@ -1,0 +1,6 @@
+article_number:127
+article_title:настоящего Кодекса), за исключением случаев, предусмотренных законодательными актами Республики Казахстан.
+article_type:article
+source:civil_code_kz.txt
+content_length:1263
+estimated_tokens:188

@@ -1,0 +1,6 @@
+article_number:9
+article_title:настоящего Кодекса), в субсидиарном порядке может быть возложено на недобросовестного представителя.
+article_type:article
+source:civil_code_kz.txt
+content_length:702
+estimated_tokens:114

@@ -1,0 +1,6 @@
+article_number:293
+article_title:Понятие неустойки
+article_type:article
+source:civil_code_kz.txt
+content_length:416
+estimated_tokens:72

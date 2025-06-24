@@ -1,0 +1,6 @@
+article_number:180
+article_title:Требования по безопасности и охране труда и финансирование мероприятий
+article_type:article
+source:labor_code_kz.txt
+content_length:1050
+estimated_tokens:172

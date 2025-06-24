@@ -1,0 +1,6 @@
+article_number:42
+article_title:Государственная регистрация и перерегистрация юридических лиц
+article_type:article
+source:civil_code_kz.txt
+content_length:1936
+estimated_tokens:269

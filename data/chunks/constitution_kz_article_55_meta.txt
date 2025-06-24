@@ -1,0 +1,6 @@
+article_number:55
+article_title:К исключительному ведению Сената относится:
+article_type:article
+source:constitution_kz.txt
+content_length:1141
+estimated_tokens:174

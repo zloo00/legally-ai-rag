@@ -1,0 +1,6 @@
+article_number:77
+article_title:Сверхурочная работа
+article_type:article
+source:labor_code_kz.txt
+content_length:1295
+estimated_tokens:202

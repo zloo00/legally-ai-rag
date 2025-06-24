@@ -1,0 +1,6 @@
+article_number:338
+article_title:Последствия прекращения и неисполнения обязательства, обеспеченного задатком
+article_type:article
+source:civil_code_kz.txt
+content_length:742
+estimated_tokens:131

@@ -1,0 +1,6 @@
+article_number:72
+article_title:Основные положения о коммандитном товариществе
+article_type:article
+source:civil_code_kz.txt
+content_length:1003
+estimated_tokens:148

@@ -1,0 +1,6 @@
+article_number:145
+article_title:Право на собственное изображение
+article_type:article
+source:civil_code_kz.txt
+content_length:547
+estimated_tokens:93

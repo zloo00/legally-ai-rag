@@ -1,0 +1,6 @@
+article_number:36
+article_title:1. Защита Республики Казахстан является священным долгом и обязанностью каждого ее гражданина.
+article_type:article
+source:constitution_kz.txt
+content_length:86
+estimated_tokens:15

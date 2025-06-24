@@ -1,0 +1,6 @@
+article_number:70
+article_title:с изменениями, внесенными законами РК от 21.05.2007 № 254-III (вводится в действие со дня его официального опубликования); от 10.03.2017 № 51-VI (вводится в действие со дня его первого официального опубликования).
+article_type:article
+source:constitution_kz.txt
+content_length:130
+estimated_tokens:24

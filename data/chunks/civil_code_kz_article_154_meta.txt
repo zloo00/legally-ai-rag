@@ -1,0 +1,6 @@
+article_number:154
+article_title:Нотариальное удостоверение сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:745
+estimated_tokens:114

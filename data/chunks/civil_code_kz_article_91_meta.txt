@@ -1,0 +1,6 @@
+article_number:91
+article_title:Выпуск и размещение ценных бумаг
+article_type:article
+source:civil_code_kz.txt
+content_length:1531
+estimated_tokens:235

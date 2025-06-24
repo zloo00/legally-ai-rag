@@ -1,0 +1,6 @@
+article_number:3
+article_title:Объект не обременен задолженностью по коммунальным и иным платежам.
+article_type:article
+source:rental_contract_template.txt
+content_length:165
+estimated_tokens:23

@@ -1,0 +1,6 @@
+article_number:85
+article_title:Работа в выходные и праздничные дни
+article_type:article
+source:labor_code_kz.txt
+content_length:1056
+estimated_tokens:191

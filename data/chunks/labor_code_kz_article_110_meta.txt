@@ -1,0 +1,6 @@
+article_number:110
+article_title:Оплата труда в ночное время
+article_type:article
+source:labor_code_kz.txt
+content_length:497
+estimated_tokens:93

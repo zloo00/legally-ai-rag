@@ -1,0 +1,6 @@
+article_number:45
+article_title:Реорганизация юридического лица
+article_type:article
+source:civil_code_kz.txt
+content_length:2668
+estimated_tokens:373

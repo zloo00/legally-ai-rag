@@ -1,0 +1,6 @@
+article_number:55
+article_title:Основание и порядок прекращения трудового договора в связи с переводом работника в другое юридическое лицо
+article_type:article
+source:labor_code_kz.txt
+content_length:1094
+estimated_tokens:183

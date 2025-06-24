@@ -1,0 +1,6 @@
+article_number:100
+article_title:с изменением, внесенным Законом РК от 04.05.2020 № 321-VІ (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).
+article_type:article
+source:labor_code_kz.txt
+content_length:36
+estimated_tokens:7

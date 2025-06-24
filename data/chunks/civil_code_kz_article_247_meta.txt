@@ -1,0 +1,6 @@
+article_number:247
+article_title:Клад
+article_type:article
+source:civil_code_kz.txt
+content_length:1164
+estimated_tokens:200

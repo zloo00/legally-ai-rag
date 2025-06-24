@@ -1,0 +1,6 @@
+article_number:188-1
+article_title:Порядок образования и состав комиссии по расследованию несчастных случаев, связанных с трудовой деятельностью работников направляющей стороны
+article_type:article
+source:labor_code_kz.txt
+content_length:2540
+estimated_tokens:379

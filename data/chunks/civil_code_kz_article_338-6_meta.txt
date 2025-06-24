@@ -1,0 +1,6 @@
+article_number:338-6
+article_title:Исполнение обязательства обеспечительной платой
+article_type:article
+source:civil_code_kz.txt
+content_length:1032
+estimated_tokens:156

@@ -1,0 +1,6 @@
+article_number:222
+article_title:Обращение взыскания на долю в общем имуществе
+article_type:article
+source:civil_code_kz.txt
+content_length:802
+estimated_tokens:140

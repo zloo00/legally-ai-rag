@@ -1,0 +1,6 @@
+article_number:141
+article_title:Защита личных неимущественных прав
+article_type:article
+source:civil_code_kz.txt
+content_length:830
+estimated_tokens:130

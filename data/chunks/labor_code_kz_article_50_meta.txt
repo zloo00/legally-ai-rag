@@ -1,0 +1,6 @@
+article_number:50
+article_title:Порядок расторжения трудового договора по соглашению сторон
+article_type:article
+source:labor_code_kz.txt
+content_length:636
+estimated_tokens:105

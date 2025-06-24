@@ -1,0 +1,6 @@
+article_number:166
+article_title:Трудовой арбитраж
+article_type:article
+source:labor_code_kz.txt
+content_length:2833
+estimated_tokens:434

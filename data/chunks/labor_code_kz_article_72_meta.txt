@@ -1,0 +1,6 @@
+article_number:72
+article_title:Разделение ежедневной работы (рабочей смены) на части
+article_type:article
+source:labor_code_kz.txt
+content_length:831
+estimated_tokens:139

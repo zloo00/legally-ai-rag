@@ -1,0 +1,6 @@
+article_number:187-1
+article_title:Обязанности принимающей стороны при расследовании несчастных случаев, связанных с трудовой деятельностью работников направляющей стороны
+article_type:article
+source:labor_code_kz.txt
+content_length:1056
+estimated_tokens:172

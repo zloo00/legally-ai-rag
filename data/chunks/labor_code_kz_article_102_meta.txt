@@ -1,0 +1,6 @@
+article_number:102
+article_title:Государственные гарантии в области оплаты труда
+article_type:article
+source:labor_code_kz.txt
+content_length:402
+estimated_tokens:75

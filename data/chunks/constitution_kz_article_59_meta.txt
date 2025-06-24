@@ -1,0 +1,6 @@
+article_number:59
+article_title:1. Сессия Парламента проходит в форме совместных и раздельных заседаний его Палат.
+article_type:article
+source:constitution_kz.txt
+content_length:1227
+estimated_tokens:204

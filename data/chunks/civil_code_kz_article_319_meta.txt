@@ -1,0 +1,6 @@
+article_number:319
+article_title:настоящего Кодекса).
+article_type:article
+source:civil_code_kz.txt
+content_length:374
+estimated_tokens:61

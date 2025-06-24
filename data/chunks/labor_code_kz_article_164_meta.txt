@@ -1,0 +1,6 @@
+article_number:164
+article_title:Органы по рассмотрению коллективных трудовых споров и порядок оформления и рассмотрения требований работников
+article_type:article
+source:labor_code_kz.txt
+content_length:2549
+estimated_tokens:373

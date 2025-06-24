@@ -1,0 +1,6 @@
+article_number:355
+article_title:Последствия неисполнения обязательства передать индивидуально определенную вещь
+article_type:article
+source:civil_code_kz.txt
+content_length:391
+estimated_tokens:66

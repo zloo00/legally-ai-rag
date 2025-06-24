@@ -1,0 +1,6 @@
+article_number:83-1
+article_title:1. Уполномоченный по правам человека в Республике Казахстан содействует восстановлению нарушенных прав и свобод человека и гражданина, способствует продвижению прав и свобод человека и гражданина.
+article_type:article
+source:constitution_kz.txt
+content_length:707
+estimated_tokens:113

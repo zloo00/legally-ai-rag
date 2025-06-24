@@ -1,0 +1,6 @@
+article_number:118
+article_title:Профессиональная подготовка, переподготовка, повышение и признание профессиональной квалификации
+article_type:article
+source:labor_code_kz.txt
+content_length:3042
+estimated_tokens:445

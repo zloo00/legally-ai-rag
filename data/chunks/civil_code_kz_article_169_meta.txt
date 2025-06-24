@@ -1,0 +1,6 @@
+article_number:169
+article_title:Передоверие
+article_type:article
+source:civil_code_kz.txt
+content_length:1324
+estimated_tokens:214

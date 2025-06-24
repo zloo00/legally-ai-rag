@@ -1,0 +1,6 @@
+article_number:163
+article_title:Возникновение коллективного трудового спора
+article_type:article
+source:labor_code_kz.txt
+content_length:785
+estimated_tokens:127

@@ -1,0 +1,6 @@
+article_number:73
+article_title:Вкладчик коммандитного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:1661
+estimated_tokens:261

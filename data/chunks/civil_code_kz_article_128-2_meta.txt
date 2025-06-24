@@ -1,0 +1,6 @@
+article_number:128-2
+article_title:Производные финансовые инструменты
+article_type:article
+source:civil_code_kz.txt
+content_length:748
+estimated_tokens:107

@@ -1,0 +1,6 @@
+article_number:43
+article_title:Временный перевод на другую работу по состоянию здоровья
+article_type:article
+source:labor_code_kz.txt
+content_length:992
+estimated_tokens:156

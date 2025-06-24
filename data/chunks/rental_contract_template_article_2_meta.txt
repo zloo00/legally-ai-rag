@@ -1,0 +1,6 @@
+article_number:2
+article_title:Объект передан в надлежащем состоянии, все оборудование, бытовая
+article_type:article
+source:rental_contract_template.txt
+content_length:132
+estimated_tokens:23

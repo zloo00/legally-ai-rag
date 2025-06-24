@@ -1,0 +1,6 @@
+article_number:19
+article_title:Субъекты трудовых отношений
+article_type:article
+source:labor_code_kz.txt
+content_length:237
+estimated_tokens:35

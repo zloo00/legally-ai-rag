@@ -1,0 +1,6 @@
+article_number:43
+article_title:1. Президент Республики Казахстан не вправе быть депутатом представительного органа, занимать иные оплачиваемые должности и осуществлять предпринимательскую деятельность.
+article_type:article
+source:constitution_kz.txt
+content_length:410
+estimated_tokens:62

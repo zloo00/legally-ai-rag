@@ -1,0 +1,6 @@
+article_number:235
+article_title:Основания приобретения права собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:844
+estimated_tokens:139

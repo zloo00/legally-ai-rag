@@ -1,0 +1,6 @@
+article_number:333
+article_title:Права и обязанности гаранта в случае предъявления к нему требования кредитором
+article_type:article
+source:civil_code_kz.txt
+content_length:551
+estimated_tokens:106

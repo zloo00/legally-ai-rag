@@ -1,0 +1,6 @@
+article_number:25
+article_title:Право несовершеннолетних на внесение вкладов в банки и распоряжение вкладами
+article_type:article
+source:civil_code_kz.txt
+content_length:398
+estimated_tokens:59

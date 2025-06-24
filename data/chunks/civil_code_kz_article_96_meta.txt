@@ -1,0 +1,6 @@
+article_number:96
+article_title:Общие положения о производственном кооперативе
+article_type:article
+source:civil_code_kz.txt
+content_length:974
+estimated_tokens:140

@@ -1,0 +1,6 @@
+article_number:178
+article_title:Запрещение локаута
+article_type:article
+source:labor_code_kz.txt
+content_length:467
+estimated_tokens:79

@@ -1,0 +1,6 @@
+article_number:10
+article_title:Трудовые договоры, соглашения сторон социального партнерства, коллективные договоры, акты работодателя в сфере труда
+article_type:article
+source:labor_code_kz.txt
+content_length:610
+estimated_tokens:87

@@ -1,0 +1,6 @@
+article_number:41
+article_title:Временный перевод на другую работу в случае производственной необходимости
+article_type:article
+source:labor_code_kz.txt
+content_length:727
+estimated_tokens:123

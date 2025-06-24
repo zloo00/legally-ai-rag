@@ -1,0 +1,6 @@
+article_number:270
+article_title:Участники обязательства
+article_type:article
+source:civil_code_kz.txt
+content_length:438
+estimated_tokens:74

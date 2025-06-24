@@ -1,0 +1,6 @@
+article_number:131
+article_title:Требования к ценной бумаге
+article_type:article
+source:civil_code_kz.txt
+content_length:369
+estimated_tokens:58

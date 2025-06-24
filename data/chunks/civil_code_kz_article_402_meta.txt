@@ -1,0 +1,6 @@
+article_number:402
+article_title:Порядок изменения и расторжения договора
+article_type:article
+source:civil_code_kz.txt
+content_length:509
+estimated_tokens:93

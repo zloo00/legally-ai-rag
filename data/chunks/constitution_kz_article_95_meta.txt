@@ -1,0 +1,6 @@
+article_number:95
+article_title:1. Одна половина депутатов Сената первого созыва избирается сроком на четыре года, другая половина депутатов - сроком на два года в порядке, установленном конституционным законом.
+article_type:article
+source:constitution_kz.txt
+content_length:197
+estimated_tokens:31

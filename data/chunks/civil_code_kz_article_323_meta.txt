@@ -1,0 +1,6 @@
+article_number:323
+article_title:Сохранение залога при переходе права на заложенное имущество к другому лицу в порядке правопреемства
+article_type:article
+source:civil_code_kz.txt
+content_length:904
+estimated_tokens:140

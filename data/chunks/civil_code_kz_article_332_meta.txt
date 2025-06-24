@@ -1,0 +1,6 @@
+article_number:332
+article_title:Ответственность гаранта и поручителя
+article_type:article
+source:civil_code_kz.txt
+content_length:1049
+estimated_tokens:171

@@ -1,0 +1,6 @@
+article_number:362
+article_title:Ответственность должника за своих работников
+article_type:article
+source:civil_code_kz.txt
+content_length:225
+estimated_tokens:35

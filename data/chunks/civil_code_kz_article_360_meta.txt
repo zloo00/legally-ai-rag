@@ -1,0 +1,6 @@
+article_number:360
+article_title:Предпринимательский риск в обязательстве
+article_type:article
+source:civil_code_kz.txt
+content_length:386
+estimated_tokens:50

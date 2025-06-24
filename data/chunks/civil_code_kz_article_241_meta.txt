@@ -1,0 +1,6 @@
+article_number:241
+article_title:Обращение в собственность общедоступных для сбора либо добычи вещей
+article_type:article
+source:civil_code_kz.txt
+content_length:338
+estimated_tokens:61

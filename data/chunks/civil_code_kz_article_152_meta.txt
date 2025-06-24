@@ -1,0 +1,6 @@
+article_number:152
+article_title:Письменная форма сделки
+article_type:article
+source:civil_code_kz.txt
+content_length:2457
+estimated_tokens:388

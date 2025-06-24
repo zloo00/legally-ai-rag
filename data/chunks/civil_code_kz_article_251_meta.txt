@@ -1,0 +1,6 @@
+article_number:251
+article_title:Обращение взыскания на имущество собственника
+article_type:article
+source:civil_code_kz.txt
+content_length:452
+estimated_tokens:70

@@ -1,0 +1,6 @@
+article_number:283
+article_title:Увеличение сумм, выплачиваемых на содержание гражданина
+article_type:article
+source:civil_code_kz.txt
+content_length:285
+estimated_tokens:39

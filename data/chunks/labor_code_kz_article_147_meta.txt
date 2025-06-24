@@ -1,0 +1,6 @@
+article_number:147
+article_title:Органы, принципы и задачи социального партнерства
+article_type:article
+source:labor_code_kz.txt
+content_length:2292
+estimated_tokens:331

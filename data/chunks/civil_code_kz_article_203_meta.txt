@@ -1,0 +1,6 @@
+article_number:203
+article_title:Приобретение и прекращение права оперативного управления
+article_type:article
+source:civil_code_kz.txt
+content_length:227
+estimated_tokens:36

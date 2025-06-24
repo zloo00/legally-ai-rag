@@ -1,0 +1,6 @@
+article_number:111
+article_title:Оплата труда при совмещении должностей, расширении зоны обслуживания и исполнении (замещении) обязанностей временно отсутствующего работника
+article_type:article
+source:labor_code_kz.txt
+content_length:1930
+estimated_tokens:293

@@ -1,0 +1,6 @@
+article_number:193
+article_title:Права государственных инспекторов труда
+article_type:article
+source:labor_code_kz.txt
+content_length:3829
+estimated_tokens:586

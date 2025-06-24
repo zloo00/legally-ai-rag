@@ -1,0 +1,6 @@
+article_number:403
+article_title:Последствия расторжения и изменения договора
+article_type:article
+source:civil_code_kz.txt
+content_length:1063
+estimated_tokens:187

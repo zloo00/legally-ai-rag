@@ -1,0 +1,6 @@
+article_number:1
+article_title:Арендодатель в соответствии с договором аренды жилого помещения
+article_type:article
+source:rental_contract_template.txt
+content_length:305
+estimated_tokens:35

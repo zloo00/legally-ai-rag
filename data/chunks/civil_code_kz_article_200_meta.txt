@@ -1,0 +1,6 @@
+article_number:200
+article_title:Условия осуществления имущественных прав государственного предприятия
+article_type:article
+source:civil_code_kz.txt
+content_length:1434
+estimated_tokens:210

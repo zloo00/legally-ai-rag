@@ -1,0 +1,6 @@
+article_number:70
+article_title:Ответственность участников по долгам полного товарищества
+article_type:article
+source:civil_code_kz.txt
+content_length:1958
+estimated_tokens:322

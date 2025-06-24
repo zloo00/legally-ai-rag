@@ -1,0 +1,6 @@
+article_number:173
+article_title:Начало срока, определяемого периодом времени
+article_type:article
+source:civil_code_kz.txt
+content_length:155
+estimated_tokens:24

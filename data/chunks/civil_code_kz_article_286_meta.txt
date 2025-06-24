@@ -1,0 +1,6 @@
+article_number:286
+article_title:Исполнение обязательства, в котором участвуют несколько кредиторов или несколько должников
+article_type:article
+source:civil_code_kz.txt
+content_length:350
+estimated_tokens:57

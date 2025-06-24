@@ -1,0 +1,6 @@
+article_number:299
+article_title:Понятие залога
+article_type:article
+source:civil_code_kz.txt
+content_length:1626
+estimated_tokens:253

@@ -1,0 +1,6 @@
+article_number:181-1
+article_title:Права и обязанности работника направляющей стороны в области безопасности и охраны труда
+article_type:article
+source:labor_code_kz.txt
+content_length:1368
+estimated_tokens:228

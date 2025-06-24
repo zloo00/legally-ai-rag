@@ -1,0 +1,6 @@
+article_number:240
+article_title:Приобретательная давность
+article_type:article
+source:civil_code_kz.txt
+content_length:1288
+estimated_tokens:219

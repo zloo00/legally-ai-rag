@@ -1,0 +1,6 @@
+article_number:29
+article_title:Охрана имущества безвестно отсутствующего
+article_type:article
+source:civil_code_kz.txt
+content_length:524
+estimated_tokens:85

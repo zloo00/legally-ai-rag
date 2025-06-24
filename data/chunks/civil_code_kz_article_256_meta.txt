@@ -1,0 +1,6 @@
+article_number:256
+article_title:Изъятие бесхозяйственно содержащихся памятников истории и культуры, культурных ценностей
+article_type:article
+source:civil_code_kz.txt
+content_length:855
+estimated_tokens:148

@@ -1,0 +1,6 @@
+article_number:220
+article_title:Владение, пользование и распоряжение имуществом, находящимся в совместной собственности
+article_type:article
+source:civil_code_kz.txt
+content_length:1269
+estimated_tokens:201

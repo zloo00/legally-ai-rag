@@ -1,0 +1,6 @@
+article_number:105
+article_title:Оплата труда работников, работников направляющей стороны, занятых на тяжелых работах, работах с вредными и (или) опасными условиями труда
+article_type:article
+source:labor_code_kz.txt
+content_length:1919
+estimated_tokens:312

@@ -1,0 +1,6 @@
+article_number:36
+article_title:Условие об испытательном сроке в трудовом договоре
+article_type:article
+source:labor_code_kz.txt
+content_length:665
+estimated_tokens:109

@@ -1,0 +1,6 @@
+article_number:324
+article_title:Последствия принудительного изъятия заложенного имущества
+article_type:article
+source:civil_code_kz.txt
+content_length:1160
+estimated_tokens:166

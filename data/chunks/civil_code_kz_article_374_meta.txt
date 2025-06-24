@@ -1,0 +1,6 @@
+article_number:374
+article_title:настоящего Кодекса);
+article_type:article
+source:civil_code_kz.txt
+content_length:684
+estimated_tokens:114

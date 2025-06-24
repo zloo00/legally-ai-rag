@@ -1,0 +1,6 @@
+article_number:125
+article_title:Интеллектуальная собственность
+article_type:article
+source:civil_code_kz.txt
+content_length:767
+estimated_tokens:110

@@ -1,0 +1,6 @@
+article_number:185
+article_title:Восстановление срока исковой давности
+article_type:article
+source:civil_code_kz.txt
+content_length:731
+estimated_tokens:135
