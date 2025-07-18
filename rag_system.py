@@ -40,7 +40,7 @@ class EnhancedRAGSystem:
         self.index = self.pinecone.Index(index_name)
         
         # Initialize models
-        self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+        self.embedding_model = SentenceTransformer('all-mpnet-base-v2')  # 768 dimensions (closer to 1536)
         self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
         
         # Conversation memory
@@ -62,7 +62,8 @@ class EnhancedRAGSystem:
             return response.data[0].embedding
         except Exception as e:
             print(f"Error getting OpenAI embedding: {e}")
-            return self.embedding_model.encode(text).tolist()
+            # Fallback: return zeros with correct dimension (1536)
+            return [0.0] * 1536
     
     def dense_search(self, query: str, top_k: int = 20) -> List[SearchResult]:
         """Perform dense vector search using Pinecone"""
