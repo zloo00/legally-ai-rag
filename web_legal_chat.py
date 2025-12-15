@@ -3,7 +3,7 @@ import os
 import openai
 from dotenv import load_dotenv
 from typing import List, Dict, Any, Optional
-from rag_system import EnhancedRAGSystem
+from rag_factory import get_rag_engine
 import json
 from datetime import datetime
 
@@ -16,7 +16,7 @@ class WebLegalChatBot:
         """Initialize the legal chatbot with RAG system"""
         self.openai_client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         self.model = model
-        self.rag_system = EnhancedRAGSystem()
+        self.rag_system = get_rag_engine()
         self.conversation_history: List[Dict[str, str]] = []
         self.max_history_length = 10
         
@@ -130,6 +130,7 @@ def chat():
     try:
         data = request.get_json()
         message = data.get('message', '').strip()
+        mode = data.get('mode', 'auto')  # legal | general | auto
         
         if not message:
             return jsonify({'error': 'Message is required'}), 400
@@ -143,18 +144,24 @@ def chat():
         ]
         
         is_legal_question = any(keyword in message.lower() for keyword in legal_keywords)
+
+        if mode == 'legal':
+            use_rag = True
+        elif mode == 'general':
+            use_rag = False
+        else:
+            use_rag = is_legal_question
         
         # Get response
-        if is_legal_question:
-            result = chatbot.chat(message, use_rag=True)
-        else:
-            result = chatbot.chat(message, use_rag=False)
+        result = chatbot.chat(message, use_rag=use_rag)
         
         return jsonify({
             'answer': result['answer'],
             'sources': result.get('sources', []),
             'search_results': result.get('search_results', []),
             'mode': result.get('mode', 'general'),
+            'requested_mode': mode,
+            'detected_mode': 'legal' if is_legal_question else 'general',
             'results_count': result.get('results_count', 0),
             'context_length': result.get('context_length', 0)
         })
@@ -192,4 +199,4 @@ def get_history():
 if __name__ == '__main__':
     print("🚀 Запуск веб-сервера для юридического чата...")
     print("📊 Система готова к работе!")
-    app.run(debug=True, host='0.0.0.0', port=5001) 
+    app.run(debug=True, host='0.0.0.0', port=5000) 

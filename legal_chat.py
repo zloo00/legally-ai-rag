@@ -2,7 +2,7 @@ import os
 import openai
 from dotenv import load_dotenv
 from typing import List, Dict, Any, Optional
-from rag_system import EnhancedRAGSystem
+from rag_factory import get_rag_engine
 import json
 from datetime import datetime
 
@@ -13,7 +13,7 @@ class LegalChatBot:
         """Initialize the legal chatbot with RAG system"""
         self.openai_client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         self.model = model
-        self.rag_system = EnhancedRAGSystem()
+        self.rag_system = get_rag_engine()
         self.conversation_history: List[Dict[str, str]] = []
         self.max_history_length = 10
         

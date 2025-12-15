@@ -1,18 +1,9 @@
-# Python 3.10 базалық образ
 FROM python:3.10-slim
-
-# Жұмыс директориясын орнату
 WORKDIR /app
-
-# Тәуелділіктерді көшіру және орнату
 COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
-
-# Барлық кодты көшіру
+RUN pip install --no-cache-dir -r requirements.txt \
+    && pip uninstall -y pinecone-client || true \
+    && pip install --no-cache-dir --upgrade pinecone
 COPY . .
-
-# Портты ашу (мысалы, Flask үшін 5000)
 EXPOSE 5000
-
-# web_legal_chat.py-ды іске қосу (егер Flask болса)
-CMD ["python", "web_legal_chat.py"] 
+CMD ["python", "web_legal_chat.py"]

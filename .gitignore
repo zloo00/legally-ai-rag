@@ -1,1 +1,26 @@
+# Environment and secrets
 .env
+.python-version
+.venv
+venv/
+
+# IDE / OS cruft
+.DS_Store
+.idea/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage / reports / benchmarks
+.coverage
+coverage.xml
+benchmark_results/
+
+# Local data outputs (keep raw sources tracked)
+data/chunks/
+data/processed/
