@@ -1,30 +1,30 @@
 import os
 import json
-import openai
 from dotenv import load_dotenv
 from pinecone import Pinecone, ServerlessSpec
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
-import numpy as np
 
 # === Шаг 1: Загрузка ключей ===
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_ENVIRONMENT = os.getenv("PINECONE_ENVIRONMENT") or "us-east-1"
 INDEX_NAME = os.getenv("PINECONE_INDEX_NAME") or "legally-index"
+EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME") or "BAAI/bge-m3"
+EMBEDDING_PASSAGE_PROMPT = os.getenv("EMBEDDING_PASSAGE_PROMPT") or "Represent this passage for retrieval: "
 
 print(f"🔧 Configuration:")
 print(f"   INDEX_NAME: {INDEX_NAME}")
 print(f"   PINECONE_ENVIRONMENT: {PINECONE_ENVIRONMENT}")
+print(f"   EMBEDDING_MODEL: {EMBEDDING_MODEL_NAME}")
 
 # === Шаг 2: Настройка клиентов ===
-openai.api_key = OPENAI_API_KEY
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
-# Initialize sentence transformer for local embeddings
-sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
+# Initialize sentence transformer for multilingual legal embeddings (ru/kz friendly)
+sentence_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+EMBEDDING_DIM = sentence_model.get_sentence_embedding_dimension()
 
 # === Шаг 3: Создание индекса, если не существует ===
 try:
@@ -35,7 +35,7 @@ try:
         print(f"📎 Индекс '{INDEX_NAME}' не найден. Создаём новый...")
         pc.create_index(
             name=INDEX_NAME,
-            dimension=1536,  # OpenAI embedding dimension
+            dimension=EMBEDDING_DIM,  # bge-m3 dense dimension
             metric="cosine",
             spec=ServerlessSpec(cloud="aws", region=PINECONE_ENVIRONMENT)
         )
@@ -96,24 +96,18 @@ if len(texts) == 0:
     exit(1)
 
 # === Шаг 5: Функция получения эмбеддингов ===
-def get_embedding(text, model="text-embedding-3-small"):
-    """Get embedding from OpenAI"""
+def get_embedding(text: str):
+    """Get embedding using bge-m3 (multilingual, strong for ru/kz legal)"""
     try:
         text = text.replace("\n", " ")
-        client = openai.OpenAI(api_key=OPENAI_API_KEY)
-        res = client.embeddings.create(input=[text], model=model)
-        return res.data[0].embedding
-    except Exception as e:
-        print(f"❌ Error getting OpenAI embedding: {e}")
-        return None
-
-def get_local_embedding(text):
-    """Get embedding using sentence transformers"""
-    try:
-        embedding = sentence_model.encode(text)
+        embedding = sentence_model.encode(
+            text,
+            normalize_embeddings=True,
+            prompt=EMBEDDING_PASSAGE_PROMPT
+        )
         return embedding.tolist()
     except Exception as e:
-        print(f"❌ Error getting local embedding: {e}")
+        print(f"❌ Error getting embedding: {e}")
         return None
 
 # === Шаг 6: Векторизация и загрузка в Pinecone ===
@@ -130,10 +124,10 @@ for i in tqdm(range(0, len(texts), batch_size), desc="📦 Индексация 
     batch_metadatas = metadatas[i:i + batch_size]
     
     vectors_to_upsert = []
-    
+        
     for j, (text, metadata) in enumerate(zip(batch_texts, batch_metadatas)):
         try:
-            # Get OpenAI embedding
+            # Get bge-m3 embedding
             embedding = get_embedding(text)
             
             if embedding is None:
@@ -141,17 +135,14 @@ for i in tqdm(range(0, len(texts), batch_size), desc="📦 Индексация 
                 detailed_errors.append(error_msg)
                 failed_uploads += 1
                 continue
-                
-            # Get local embedding for hybrid search (but don't store in metadata)
-            local_embedding = get_local_embedding(text)
             
             # Enhanced metadata - only include Pinecone-compatible types
             enhanced_metadata = {
                 "filename": metadata.get("filename", ""),
                 "text_preview": metadata.get("text", "")[:500],  # Limit text preview
                 "text_length": len(text),
-                "embedding_model": "text-embedding-3-small",
-                "has_local_embedding": local_embedding is not None
+                "embedding_model": EMBEDDING_MODEL_NAME,
+                "has_local_embedding": True
             }
             
             # Add other metadata fields if they exist and are compatible

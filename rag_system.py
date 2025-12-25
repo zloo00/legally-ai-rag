@@ -8,6 +8,7 @@ import openai
 from dotenv import load_dotenv
 from pinecone import Pinecone
 from sentence_transformers import SentenceTransformer, CrossEncoder
+from rank_bm25 import BM25Okapi
 
 load_dotenv()
 
@@ -40,8 +41,13 @@ class EnhancedRAGSystem:
         self.index = self.pinecone.Index(index_name)
         
         # Initialize models
-        self.embedding_model = SentenceTransformer('all-mpnet-base-v2')  # 768 dimensions (closer to 1536)
-        self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+        self.embedding_model_name = os.getenv("EMBEDDING_MODEL_NAME") or "BAAI/bge-m3"
+        self.embedding_instruction_query = os.getenv("EMBEDDING_QUERY_PROMPT") or "Represent this query for retrieving relevant documents: "
+        self.embedding_model = SentenceTransformer(self.embedding_model_name)
+        self.embedding_dimension = self.embedding_model.get_sentence_embedding_dimension()
+        # Multilingual reranker aligned with bge-m3 embeddings
+        self.cross_encoder = CrossEncoder('BAAI/bge-reranker-v2-m3')
+        self.bm25 = None  # Will be initialized lazily for hybrid search
         
         # Conversation memory
         self.conversation_history: List[ConversationTurn] = []
@@ -53,17 +59,17 @@ class EnhancedRAGSystem:
         self.rerank_threshold = 0.5
         
     def get_embedding(self, text: str) -> List[float]:
-        """Get embedding from OpenAI"""
+        """Get embedding using multilingual bge-m3 (ru/kz strong)"""
         try:
-            response = self.openai_client.embeddings.create(
-                input=text,
-                model="text-embedding-3-small"
-            )
-            return response.data[0].embedding
+            return self.embedding_model.encode(
+                text.replace("\n", " "),
+                normalize_embeddings=True,
+                prompt=self.embedding_instruction_query
+            ).tolist()
         except Exception as e:
-            print(f"Error getting OpenAI embedding: {e}")
-            # Fallback: return zeros with correct dimension (1536)
-            return [0.0] * 1536
+            print(f"Error getting embedding: {e}")
+            # Fallback: return zeros with correct dimension
+            return [0.0] * self.embedding_dimension
     
     def dense_search(self, query: str, top_k: int = 20) -> List[SearchResult]:
         """Perform dense vector search using Pinecone"""
@@ -107,54 +113,55 @@ class EnhancedRAGSystem:
     
     def sparse_search(self, query: str, documents: List[str]) -> List[float]:
         """Perform sparse search using simple keyword matching"""
+        # Deprecated: retained for compatibility; hybrid_search now uses BM25
         try:
-            # Simple keyword-based scoring
             query_words = set(query.lower().split())
             scores = []
-            
             for doc in documents:
                 doc_words = set(doc.lower().split())
                 intersection = query_words.intersection(doc_words)
                 score = len(intersection) / len(query_words) if query_words else 0
                 scores.append(score)
-            
             return scores
         except Exception as e:
             print(f"Error in sparse search: {e}")
             return [0.0] * len(documents)
     
+    def initialize_bm25(self, documents: List[str]) -> None:
+        """Initialize BM25 on provided documents."""
+        tokenized_docs = [doc.lower().split() for doc in documents]
+        self.bm25 = BM25Okapi(tokenized_docs)
+    
     def hybrid_search(self, query: str, top_k: int = 20) -> List[SearchResult]:
-        """Perform hybrid search combining dense and sparse retrieval"""
-        # Dense search
-        dense_results = self.dense_search(query, top_k)
-        
+        """Hybrid search combining dense retrieval with BM25 for better lexical recall."""
+        dense_results = self.dense_search(query, top_k * 2)  # fetch more for rerank fusion
         if not dense_results:
             return []
         
-        # Extract texts for sparse search
         texts = [result.text for result in dense_results]
         
-        # Sparse search
-        sparse_scores = self.sparse_search(query, texts)
+        # Initialize or refresh BM25 to match current candidate set
+        doc_count = len(getattr(self.bm25, "doc_len", [])) if self.bm25 else 0
+        if self.bm25 is None or doc_count != len(texts):
+            self.initialize_bm25(texts)
         
-        # Combine scores (weighted average)
-        alpha = 0.7  # Weight for dense search
-        combined_results = []
+        bm25_scores = self.bm25.get_scores(query.lower().split()) if self.bm25 else [0.0] * len(texts)
         
+        # Normalize BM25 scores to [0,1] to combine with dense scores
+        bm25_min = float(np.min(bm25_scores)) if len(bm25_scores) else 0.0
+        bm25_max = float(np.max(bm25_scores)) if len(bm25_scores) else 0.0
+        bm25_norm = [
+            (s - bm25_min) / (bm25_max - bm25_min + 1e-8) if bm25_max - bm25_min > 0 else 0.0
+            for s in bm25_scores
+        ]
+        
+        alpha = 0.75  # weight for dense scores; (1-alpha) for lexical
         for i, result in enumerate(dense_results):
-            combined_score = alpha * result.score + (1 - alpha) * sparse_scores[i]
-            combined_results.append(SearchResult(
-                id=result.id,
-                text=result.text,
-                score=combined_score,
-                metadata=result.metadata,
-                source=result.source
-            ))
+            lexical = bm25_norm[i] if i < len(bm25_norm) else 0.0
+            result.score = alpha * result.score + (1 - alpha) * lexical
         
-        # Sort by combined score
-        combined_results.sort(key=lambda x: x.score, reverse=True)
-        
-        return combined_results[:top_k]
+        dense_results.sort(key=lambda x: x.score, reverse=True)
+        return dense_results[:top_k]
     
     def rerank_results(self, query: str, results: List[SearchResult]) -> List[SearchResult]:
         """Re-rank results using cross-encoder"""
@@ -203,15 +210,20 @@ class EnhancedRAGSystem:
         """Generate response using OpenAI with conversation history"""
         try:
             # Build system prompt
-            system_prompt = """Ты — AI-юрист, специализирующийся на казахстанском законодательстве. 
-            Твоя задача — давать точные, полезные ответы на основе предоставленного контекста.
-            
-            Правила:
-            1. Отвечай только на основе предоставленного контекста
-            2. Если информации недостаточно, честно скажи об этом
-            3. Цитируй конкретные статьи и положения
-            4. Объясняй сложные юридические концепции простым языком
-            5. Всегда указывай источник информации"""
+            system_prompt = """Ты — эксперт по законодательству Республики Казахстан.
+
+Обязательно отвечай по шаблону:
+
+1. Краткий ответ на вопрос
+2. Обоснование со ссылками на конкретные статьи
+3. Полная цитата релевантных положений из контекста
+
+Формат цитирования:
+(Источник: [название документа], Статья X, часть Y, пункт Z)
+
+Если информации недостаточно — скажи: "В предоставленном контексте прямого регулирования не найдено."
+
+НЕ придумывай нормы, которых нет в контексте."""
             
             # Build conversation context
             messages: List[Dict[str, str]] = [{"role": "system", "content": system_prompt}]
@@ -329,8 +341,8 @@ class EnhancedRAGSystem:
                 "index_dimension": index_stats.get("dimension", 0),
                 "conversation_history_length": len(self.conversation_history),
                 "models": {
-                    "embedding": "text-embedding-3-small",
-                    "cross_encoder": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+                    "embedding": self.embedding_model_name,
+                    "cross_encoder": "BAAI/bge-reranker-v2-m3",
                     "generation": "gpt-4"
                 }
             }
