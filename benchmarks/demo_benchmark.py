@@ -38,7 +38,7 @@ def demo_quick_benchmark():
     
     try:
         # Инициализируем RAG систему
-        from rag_system import EnhancedRAGSystem
+        from legal_rag.rag.rag_system import EnhancedRAGSystem
         rag_system = EnhancedRAGSystem()
         
         # Тестируем каждый вопрос
@@ -129,7 +129,7 @@ def demo_quality_metrics():
     
     try:
         # Инициализируем RAG систему
-        from rag_system import EnhancedRAGSystem
+        from legal_rag.rag.rag_system import EnhancedRAGSystem
         rag_system = EnhancedRAGSystem()
         
         # Тестируем качество
@@ -183,7 +183,7 @@ def demo_load_test():
     
     try:
         # Инициализируем RAG систему
-        from rag_system import EnhancedRAGSystem
+        from legal_rag.rag.rag_system import EnhancedRAGSystem
         rag_system = EnhancedRAGSystem()
         
         # Конфигурация для демо

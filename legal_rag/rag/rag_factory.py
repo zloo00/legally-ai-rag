@@ -2,7 +2,7 @@ import os
 from typing import Any, Dict
 
 # Baseline RAG
-from rag_system import EnhancedRAGSystem
+from .rag_system import EnhancedRAGSystem
 
 
 class BaseEngineInterface:
@@ -86,8 +86,23 @@ class LightRAGEngine(BaseEngineInterface):
         return {"engine": "lightrag", "configured": False}
 
 
-def get_rag_engine() -> BaseEngineInterface:
-    engine_name = os.getenv("RAG_ENGINE", "baseline").strip().lower()
+class RAGFactory:
+    """Factory for creating RAG engines by name."""
+
+    @staticmethod
+    def create_rag_system(engine_name: str = "baseline") -> BaseEngineInterface:
+        engine = engine_name.strip().lower()
+        if engine in ("baseline", "default"):
+            return BaselineEngine()
+        if engine in ("graphrag", "graph"):
+            return GraphRAGEngine()
+        if engine in ("lightrag", "light"):
+            return LightRAGEngine()
+        return BaselineEngine()
+
+
+def get_rag_engine(engine_name: str | None = None) -> BaseEngineInterface:
+    engine_name = (engine_name or os.getenv("RAG_ENGINE", "baseline")).strip().lower()
     if engine_name in ("baseline", "default"):
         return BaselineEngine()
     if engine_name in ("graphrag", "graph"):

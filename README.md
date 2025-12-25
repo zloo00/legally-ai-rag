@@ -25,7 +25,7 @@
 - **Подготовка данных**: разметка и разбиение документов на статьи/чанки (`preprocess_articles.py`).
 - **Индексация**: эмбеддинги и загрузка в Pinecone (`embed_and_index_fixed.py`).
 - **RAG-ядро**: гибридный поиск (векторный + BM25), переранжирование, агрегация источников (`rag_system.py`).
-- **Интерфейсы**: CLI (`legal_chat.py`) и веб (`web_legal_chat.py` + `templates/legal_chat.html`).
+- **Интерфейсы**: CLI (`legal_rag/app/legal_chat.py`) и веб (`legal_rag/app/web_legal_chat.py` + `legal_rag/app/templates/legal_chat.html`).
 - **Интеграции**: OpenAI для эмбеддингов/генерации, Pinecone для векторного поиска.
 
 Диаграмма потоков (вкратце):
@@ -66,27 +66,27 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_openai_api_key
 PINECONE_API_KEY=your_pinecone_api_key
 PINECONE_ENVIRONMENT=us-east-1
-PINECONE_INDEX_NAME=legally-index
+PINECONE_INDEX_NAME=bge-m3-legal-kz-v1
 ```
 
 ### 4) Подготовка данных и индексация
 ```bash
 # Разбивка документов на статьи/чанки
-python preprocess_articles.py
+python legal_rag/pipelines/preprocess_articles.py
 
 # Создание эмбеддингов и загрузка в Pinecone
-python embed_and_index_fixed.py
+python legal_rag/pipelines/embed_and_index_fixed.py
 ```
 
 ### 5) Запуск
 #### Консольный чат
 ```bash
-python legal_chat.py
+python legal_rag/app/legal_chat.py
 ```
 
 #### Веб-интерфейс (локально)
 ```bash
-python web_legal_chat.py
+python legal_rag/app/web_legal_chat.py
 ```
 Откройте: http://localhost:5000
 
@@ -119,23 +119,40 @@ docker-compose up -d
 ## 📁 Структура проекта
 ```
 practice1/
+├── legal_rag/
+│   ├── app/                    # CLI и веб-приложение
+│   │   ├── legal_chat.py
+│   │   ├── web_legal_chat.py
+│   │   └── templates/
+│   │       └── legal_chat.html
+│   ├── rag/                    # Ядро RAG
+│   │   ├── rag_system.py
+│   │   └── rag_factory.py
+│   └── pipelines/              # ETL/индексация
+│       ├── preprocess_articles.py
+│       └── embed_and_index_fixed.py
+├── benchmarks/                 # Benchmark-скрипты и датасеты
+│   ├── benchmark_rag.py
+│   ├── benchmark_quality.py
+│   ├── benchmark_load_test.py
+│   ├── benchmark_compare_engines.py
+│   ├── demo_benchmark.py
+│   ├── compare_lawyer_rag.py
+│   ├── compare_rag_gpt.py
+│   ├── run_benchmark.py
+│   └── benchmark_dataset.json
+├── tests/                      # Тесты
+│   ├── test_rag.py
+│   ├── test_rag_only.py
+│   ├── test_compare_rag_gpt.py
+│   ├── test_article_chunks.py
+│   ├── test_comparison_similarity.py
+│   ├── test_api.py
+│   └── test_web_interface.py
 ├── data/
 │   ├── raw/                    # Исходные документы
 │   └── chunks/                 # Разбитые на статьи/чанки тексты
-├── templates/
-│   └── legal_chat.html         # Шаблон веб-интерфейса
 ├── benchmark_results/          # Результаты benchmark'ов
-├── rag_system.py               # Ядро RAG
-├── rag_factory.py              # Фабрика RAG движков
-├── legal_chat.py               # CLI-чат
-├── web_legal_chat.py           # Веб-сервер (порт 5000)
-├── preprocess_articles.py      # Подготовка данных
-├── embed_and_index_fixed.py    # Индексация в Pinecone
-├── test_rag.py                 # Базовые тесты RAG
-├── benchmark_rag.py            # Основной benchmark
-├── benchmark_quality.py        # Тест качества
-├── benchmark_load_test.py      # Нагрузочное тестирование
-├── benchmark_compare_engines.py # Сравнение движков
 ├── Makefile                    # Команды для benchmark'ов
 ├── README_BENCHMARK.md         # Документация benchmark'ов
 ├── requirements.txt            # Зависимости
@@ -144,7 +161,7 @@ practice1/
 ```
 
 ## ⚙️ Конфигурация и параметры
-Ключевые параметры находятся в `rag_system.py`:
+Ключевые параметры находятся в `legal_rag/rag/rag_system.py`:
 ```python
 self.top_k_initial = 20
 self.top_k_final = 5

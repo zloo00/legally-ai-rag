@@ -16,8 +16,8 @@ import pandas as pd
 from dotenv import load_dotenv
 import psutil
 
-from rag_system import EnhancedRAGSystem
-from rag_factory import RAGFactory
+from legal_rag.rag.rag_system import EnhancedRAGSystem
+from legal_rag.rag.rag_factory import RAGFactory
 
 load_dotenv()
 

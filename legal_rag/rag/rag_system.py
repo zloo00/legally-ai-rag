@@ -240,7 +240,7 @@ class EnhancedRAGSystem:
             
             # Generate response
             response = self.openai_client.chat.completions.create(
-                model="gpt-4",
+                model=os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini"),
                 messages=messages,  # type: ignore
                 temperature=0.3,
                 max_tokens=1000
@@ -343,7 +343,7 @@ class EnhancedRAGSystem:
                 "models": {
                     "embedding": self.embedding_model_name,
                     "cross_encoder": "BAAI/bge-reranker-v2-m3",
-                    "generation": "gpt-4"
+                    "generation": os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini")
                 }
             }
         except Exception as e:

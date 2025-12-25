@@ -5,12 +5,14 @@
 ## 📁 Структура
 
 ```
-benchmark_rag.py              # Основной benchmark файл
-benchmark_quality.py          # Тестирование качества ответов
-benchmark_load_test.py        # Нагрузочное тестирование
-benchmark_compare_engines.py  # Сравнение разных движков RAG
-Makefile                      # Удобные команды для запуска
-README_BENCHMARK.md           # Документация
+benchmarks/benchmark_rag.py              # Основной benchmark файл
+benchmarks/benchmark_quality.py          # Тестирование качества ответов
+benchmarks/benchmark_load_test.py        # Нагрузочное тестирование
+benchmarks/benchmark_compare_engines.py  # Сравнение разных движков RAG
+benchmarks/run_benchmark.py              # RAGAS-оценка качества + метрики цитирования/отказов
+benchmarks/benchmark_dataset.json        # Датасет для RAGAS-бенчмарка
+Makefile                                 # Удобные команды для запуска
+README_BENCHMARK.md                      # Документация
 ```
 
 ## 🚀 Быстрый старт
@@ -52,7 +54,7 @@ make compare      # Сравнение движков
 
 **Запуск:**
 ```bash
-python benchmark_rag.py
+python benchmarks/benchmark_rag.py
 ```
 
 ### 2. Benchmark качества (`benchmark_quality.py`)
@@ -77,7 +79,7 @@ python benchmark_rag.py
 
 **Запуск:**
 ```bash
-python benchmark_quality.py
+python benchmarks/benchmark_quality.py
 ```
 
 ### 3. Нагрузочное тестирование (`benchmark_load_test.py`)
@@ -103,7 +105,7 @@ python benchmark_quality.py
 
 **Запуск:**
 ```bash
-python benchmark_load_test.py
+python benchmarks/benchmark_load_test.py
 ```
 
 ### 4. Сравнение движков (`benchmark_compare_engines.py`)
@@ -122,7 +124,22 @@ python benchmark_load_test.py
 
 **Запуск:**
 ```bash
-python benchmark_compare_engines.py
+python benchmarks/benchmark_compare_engines.py
+```
+
+### 5. Качество с RAGAS и цитированием (`benchmark/run_benchmark.py`)
+
+**Что тестирует:**
+- context precision/recall, faithfulness, answer relevancy (RAGAS)
+- Точность цитирования (heuristic doc+article match)
+- Refusal rate (отказы при нехватке контекста)
+
+**Датасет:**
+- `benchmarks/benchmark_dataset.json` — 30 примеров (ru/kz), расширяй до 80–100 для устойчивых метрик.
+
+**Запуск:**
+```bash
+python benchmarks/run_benchmark.py --dataset benchmarks/benchmark_dataset.json --limit 20
 ```
 
 ## 📈 Результаты
@@ -282,4 +299,3 @@ make compare
 - Получить рекомендации по оптимизации
 
 Используйте результаты для принятия обоснованных решений по улучшению системы!
-

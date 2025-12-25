@@ -87,10 +87,10 @@ class EngineComparison:
             try:
                 # Инициализируем RAG систему
                 if engine == "baseline":
-                    from rag_system import EnhancedRAGSystem
+                    from legal_rag.rag.rag_system import EnhancedRAGSystem
                     rag_system = EnhancedRAGSystem()
                 else:
-                    from rag_factory import RAGFactory
+                    from legal_rag.rag.rag_factory import RAGFactory
                     rag_system = RAGFactory.create_rag_system(engine)
                 
                 # Тестируем качество
@@ -115,10 +115,10 @@ class EngineComparison:
             try:
                 # Инициализируем RAG систему
                 if engine == "baseline":
-                    from rag_system import EnhancedRAGSystem
+                    from legal_rag.rag.rag_system import EnhancedRAGSystem
                     rag_system = EnhancedRAGSystem()
                 else:
-                    from rag_factory import RAGFactory
+                    from legal_rag.rag.rag_factory import RAGFactory
                     rag_system = RAGFactory.create_rag_system(engine)
                 
                 # Тестируем нагрузку

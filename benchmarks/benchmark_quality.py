@@ -14,8 +14,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import re
 
-from rag_system import EnhancedRAGSystem
-from rag_factory import EnhancedRAGSystem
+from legal_rag.rag.rag_system import EnhancedRAGSystem
 
 rag = EnhancedRAGSystem()
 

@@ -21,27 +21,27 @@ help:
 # Полный benchmark
 benchmark:
 	@echo "🚀 Запуск полного benchmark..."
-	$(PYTHON) benchmark_rag.py
+	$(PYTHON) benchmarks/benchmark_rag.py
 
 # Benchmark производительности
 performance:
 	@echo "⚡ Запуск benchmark производительности..."
-	$(PYTHON) benchmark_rag.py
+	$(PYTHON) benchmarks/benchmark_rag.py
 
 # Benchmark качества
 quality:
 	@echo "🎯 Запуск benchmark качества..."
-	$(PYTHON) benchmark_quality.py
+	$(PYTHON) benchmarks/benchmark_quality.py
 
 # Нагрузочное тестирование
 load:
 	@echo "⚡ Запуск нагрузочного тестирования..."
-	$(PYTHON) benchmark_load_test.py
+	$(PYTHON) benchmarks/benchmark_load_test.py
 
 # Сравнение движков
 compare:
 	@echo "🔄 Сравнение движков RAG..."
-	$(PYTHON) benchmark_compare_engines.py
+	$(PYTHON) benchmarks/benchmark_compare_engines.py
 
 # Очистка результатов
 clean:
@@ -78,4 +78,4 @@ test-load: load
 # Демонстрация
 demo:
 	@echo "🎯 Демонстрация benchmark'ов..."
-	$(PYTHON) demo_benchmark.py
+	$(PYTHON) benchmarks/demo_benchmark.py

@@ -4,7 +4,7 @@
 """
 
 import os
-from rag_system import EnhancedRAGSystem
+from legal_rag.rag.rag_system import EnhancedRAGSystem
 from dotenv import load_dotenv
 
 load_dotenv()

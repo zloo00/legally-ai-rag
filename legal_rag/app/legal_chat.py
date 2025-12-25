@@ -1,10 +1,12 @@
 import os
-import openai
-from dotenv import load_dotenv
-from typing import List, Dict, Any, Optional
-from rag_factory import get_rag_engine
 import json
 from datetime import datetime
+from typing import List, Dict, Any, Optional
+
+import openai
+from dotenv import load_dotenv
+
+from legal_rag.rag.rag_factory import get_rag_engine
 
 load_dotenv()
 

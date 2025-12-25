@@ -37,22 +37,22 @@ PINECONE_INDEX_NAME=legally-index
 ### 3. Индексация документов
 ```bash
 # Создание чанков по статьям
-python preprocess_articles.py
+python legal_rag/pipelines/preprocess_articles.py
 
 # Индексация в Pinecone
-python embed_and_index_fixed.py
+python legal_rag/pipelines/embed_and_index_fixed.py
 ```
 
 ### 4. Запуск чата
 
 #### Командная строка:
 ```bash
-python legal_chat.py
+python legal_rag/app/legal_chat.py
 ```
 
 #### Веб-интерфейс:
 ```bash
-python web_legal_chat.py
+python legal_rag/app/web_legal_chat.py
 ```
 Откройте браузер: http://localhost:5001
 
@@ -60,19 +60,26 @@ python web_legal_chat.py
 
 ```
 practice1/
+├── legal_rag/
+│   ├── app/
+│   │   ├── legal_chat.py
+│   │   ├── web_legal_chat.py
+│   │   └── templates/
+│   │       └── legal_chat.html
+│   ├── rag/
+│   │   ├── rag_system.py
+│   │   └── rag_factory.py
+│   └── pipelines/
+│       ├── preprocess_articles.py
+│       └── embed_and_index_fixed.py
 ├── data/
 │   ├── raw/                    # Исходные документы
 │   └── chunks/                 # Обработанные чанки
-├── templates/
-│   ├── chat.html              # Веб-интерфейс обычного чата
-│   └── legal_chat.html        # Веб-интерфейс юридического чата
-├── rag_system.py              # Основная RAG система
-├── legal_chat.py              # Консольный юридический чат
-├── web_legal_chat.py          # Веб-сервер юридического чата
-├── test_rag.py                # Тестирование RAG системы
-├── embed_and_index_fixed.py   # Индексация документов
-├── preprocess_articles.py     # Обработка документов по статьям
-└── requirements.txt           # Зависимости
+├── benchmarks/                # Benchmark-скрипты и датасеты
+├── tests/                     # Тесты
+├── benchmark_results/         # Результаты бенчмарков
+├── requirements.txt           # Зависимости
+└── README_BENCHMARK.md        # Документация по бенчмаркам
 ```
 
 ## 🔧 Как это работает
@@ -83,8 +90,8 @@ practice1/
 - Сохраняется метаинформация (номер статьи, источник)
 
 ### 2. Векторизация
-- Используется OpenAI `text-embedding-3-small`
-- Локальные эмбеддинги для гибридного поиска
+- Используется `BAAI/bge-m3` (multilingual, ru/kz)
+- Нормализованные эмбеддинги для гибридного поиска
 - Индексация в Pinecone
 
 ### 3. Поиск и генерация
@@ -96,7 +103,7 @@ practice1/
 
 ### Командная строка
 ```bash
-python legal_chat.py
+python legal_rag/app/legal_chat.py
 ```
 
 **Команды:**
@@ -107,7 +114,7 @@ python legal_chat.py
 
 ### Веб-интерфейс
 ```bash
-python web_legal_chat.py
+python legal_rag/app/web_legal_chat.py
 ```
 
 **Возможности:**
